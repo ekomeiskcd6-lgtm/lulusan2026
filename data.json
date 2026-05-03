@@ -1,0 +1,16 @@
+[
+  {
+    "nisn": "12345",
+    "password": "abc123",
+    "nama": "Budi",
+    "status": "LULUS",
+    "file": "file/12345.pdf"
+  },
+  {
+    "nisn": "67890",
+    "password": "xyz789",
+    "nama": "Siti",
+    "status": "LULUS",
+    "file": "file/67890.pdf"
+  }
+]
