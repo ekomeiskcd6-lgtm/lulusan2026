@@ -4,32 +4,34 @@
   <title>Pengumuman Kelulusan</title>
 </head>
 <body>
-  <h2>PENGUMUMAN KELULUSAN TAHUN 2026</h2>
-  <h2>SMK NEGERI JENAWI</h2>
+  <h2>CEK KELULUSAN</h2>
+
   <input type="text" id="nisn" placeholder="Masukkan NISN"><br><br>
   <input type="password" id="password" placeholder="Masukkan Password"><br><br>
 
-  <button onclick="cekKelulusan()">Cek</button>
+  <button onclick="cek()">Cek</button>
 
   <div id="hasil"></div>
 
   <script src="data.js"></script>
   <script>
-    function cekKelulusan() {
+    function cek() {
       let nisn = document.getElementById("nisn").value;
       let password = document.getElementById("password").value;
 
-      let hasil = siswa.find(s => s.nisn === nisn && s.password === password);
+      let user = siswa.find(s => s.nisn === nisn && s.password === password);
 
-      if (hasil) {
-        let output = `<h3>${hasil.nama}</h3>
-                      <p>Status: <b>${hasil.status}</b></p>`;
+      if (user) {
+        let html = `
+          <h3>${user.nama}</h3>
+          <p>Status: <b>${user.status}</b></p>
+        `;
 
-        if (hasil.status === "LULUS" && hasil.file) {
-          output += `<a href="${hasil.file}" download>Download File Kelulusan</a>`;
+        if (user.status === "LULUS") {
+          html += `<a href="${user.file}" download>Download SKL</a>`;
         }
 
-        document.getElementById("hasil").innerHTML = output;
+        document.getElementById("hasil").innerHTML = html;
       } else {
         document.getElementById("hasil").innerHTML = "Data tidak ditemukan!";
       }
