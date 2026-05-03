@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Admin Kelulusan</title>
+</head>
+<body>
+  <h2>ADMIN - Import Excel</h2>
+
+  <input type="password" id="adminPass" placeholder="Password Admin"><br><br>
+
+  <div id="panel" style="display:none;">
+    <input type="file" id="fileInput"><br><br>
+    <button onclick="convert()">Convert</button>
+    <button onclick="downloadJS()">Download data.js</button>
+
+    <pre id="output"></pre>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+
+  <script>
+    const ADMIN_PASSWORD = "admin123"; // ganti sendiri
+
+    document.getElementById("adminPass").addEventListener("input", function() {
+      if (this.value === ADMIN_PASSWORD) {
+        document.getElementById("panel").style.display = "block";
+      }
+    });
+
+    let hasilJS = "";
+
+    function convert() {
+      const file = document.getElementById('fileInput').files[0];
+      const reader = new FileReader();
+
+      reader.onload = function(e) {
+        const data = new Uint8Array(e.target.result);
+        const workbook = XLSX.read(data, {type: 'array'});
+        const sheet = workbook.Sheets[workbook.SheetNames[0]];
+        const json = XLSX.utils.sheet_to_json(sheet);
+
+        let siswa = json.map(row => {
+          let nisn = String(row.NISN).padStart(10, '0');
+
+          return {
+            nisn: nisn,
+            password: String(row.PASSWORD),
+            nama: row.NAMA,
+            status: row.STATUS,
+            file: row.STATUS === "LULUS" ? "file/" + nisn + ".pdf" : ""
+          };
+        });
+
+        hasilJS = "const siswa = " + JSON.stringify(siswa, null, 2) + ";";
+        document.getElementById("output").textContent = hasilJS;
+      };
+
+      reader.readAsArrayBuffer(file);
+    }
+
+    function downloadJS() {
+      const blob = new Blob([hasilJS], {type: "text/javascript"});
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = "data.js";
+      a.click();
+    }
+  </script>
+</body>
+</html>
