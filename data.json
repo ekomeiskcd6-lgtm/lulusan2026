@@ -1,2270 +1,2648 @@
-[
- {
-   "NISN": 84355770,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AGUS FAHRI KURNIAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 53718059,
-   "PASSWORD": "sragen",
-   "NAMA": "ALYANA PUTRI YAMTI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86101555,
-   "PASSWORD": "malang",
-   "NAMA": "ANDISTI TRI ANJANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 73881920,
-   "PASSWORD": "sragen",
-   "NAMA": "ANGGI WIDIYASTUTI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81595874,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANIS ARIANTI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85392805,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ARIN NABILA KAUTSAR",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78123963,
-   "PASSWORD": "sragen",
-   "NAMA": "DANNI WIJAYA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77165890,
-   "PASSWORD": "sragen",
-   "NAMA": "DESTIA KHOIRUNNISA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78401700,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DEWI USWATUN KHASANAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84525520,
-   "PASSWORD": "karanganyar",
-   "NAMA": "EKA SEPTIA RAMADANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82854624,
-   "PASSWORD": "sragen",
-   "NAMA": "FALDIANSYAH ANDRA WIGUNA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86993547,
-   "PASSWORD": "ngawi",
-   "NAMA": "FANISA MAHARANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89307459,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FEBRIANA EKA HAPSARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88663565,
-   "PASSWORD": "grobogan",
-   "NAMA": "FINA DEWI NOVITASARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82796285,
-   "PASSWORD": "grobogan",
-   "NAMA": "FIRANDA RIZKA AMILLAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82169812,
-   "PASSWORD": "karanganyar",
-   "NAMA": "GENDHIZ ARUM HANDAYANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83866210,
-   "PASSWORD": "karanganyar",
-   "NAMA": "GRACIELA SUBAKIR",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 72221800,
-   "PASSWORD": "bekasi",
-   "NAMA": "IBTI SENJA PURNAMASARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84335916,
-   "PASSWORD": "sragen",
-   "NAMA": "ICHA NUR KOTIMAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87011479,
-   "PASSWORD": "tangerang",
-   "NAMA": "INTAN NUR AINI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87905445,
-   "PASSWORD": "sidoharjo",
-   "NAMA": "INTAN NURAPRILLIYANA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84847390,
-   "PASSWORD": "karanganyar",
-   "NAMA": "KHOIRUN NISA'",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83391304,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MEISELA ANDRIYANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83820828,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MUNTAWA ALWI ROJUL",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84220980,
-   "PASSWORD": "karanganyar",
-   "NAMA": "PUPUT WIDIYANINGSIH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89914476,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RINTANTIK SETIA NINGRUM",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83942525,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SALSABILLAH KIRANI ANUGRAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85913186,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SAMUEL JUNIASTORO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77635936,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SUCI PERTIWI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88170977,
-   "PASSWORD": "tasikmalaya",
-   "NAMA": "VIRA SYAHRANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83718338,
-   "PASSWORD": "karanganyar",
-   "NAMA": "YOGA YULIANTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83696191,
-   "PASSWORD": "karanganyar",
-   "NAMA": "YUNITA BUNGA LESTARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84463518,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ZULFAA RAFI'I HANIFAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83090705,
-   "PASSWORD": "bantul",
-   "NAMA": "ADELLIA CHIVA SEYNITA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87513588,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AGRI SETYA PRADANA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87815418,
-   "PASSWORD": "sragen",
-   "NAMA": "ALDHI REZA ANANTA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87174385,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ALVIAN DWIRIANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81833722,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ARDINA LHOREN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87772509,
-   "PASSWORD": "karanganyar",
-   "NAMA": "BELA UMDATUL MUFIDAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88220651,
-   "PASSWORD": "karanganyar",
-   "NAMA": "BELINDA RAMADHANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88467450,
-   "PASSWORD": "karanganyar",
-   "NAMA": "CAHAYA WULAN JUNITA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82249085,
-   "PASSWORD": "karanganyar",
-   "NAMA": "CEYSA PUTIANANTA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83274666,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DEVITA NUR HANIFFAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71337615,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DEWI LESTARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 79844512,
-   "PASSWORD": "sragen",
-   "NAMA": "EKA FITRIA SUSILOWATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88350331,
-   "PASSWORD": "karanganyar",
-   "NAMA": "EPI SAPUTRI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83546644,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ISTIQOMAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86313317,
-   "PASSWORD": "sragen",
-   "NAMA": "JAYLIN ALISYA DHIRIJAZINTA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81581726,
-   "PASSWORD": "karanganyar",
-   "NAMA": "KHAILA PUTRI RAHAYU",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 66502609,
-   "PASSWORD": "jakarta",
-   "NAMA": "KHAIRUNISYA MAWARNI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84515406,
-   "PASSWORD": "karanganyar",
-   "NAMA": "KIRANA CHELSEA SETYOWATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82242662,
-   "PASSWORD": "karawang",
-   "NAMA": "M FARIS FIQRIATUL HANAFI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78891647,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MAYANGSARI SRI ANJANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 74892458,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MONICKA PUTRI SYAHARA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76322639,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MUTHIA RAMADANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83492026,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MYAS PUTRI PURWANINGSIH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87956167,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NAJWA REGITA CAHYANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71932614,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NASYWA NUR AMALIA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81784131,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NOVITA SULISTYORINI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82673876,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NUR ALDINNA SALSABILLA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86832870,
-   "PASSWORD": "karanganyar",
-   "NAMA": "PANDU DWI SAPUTRO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85661277,
-   "PASSWORD": "karanganyar",
-   "NAMA": "PUTRI NUR ANGGRAINI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87741682,
-   "PASSWORD": "jakarta",
-   "NAMA": "RISQI SIDDIQ HENDRAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84140092,
-   "PASSWORD": "sragen",
-   "NAMA": "RIZMA FULICTA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88526588,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SILA RAMADHANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86935938,
-   "PASSWORD": "sragen",
-   "NAMA": "WINDA ASMARANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85461100,
-   "PASSWORD": "sragen",
-   "NAMA": "AHMAT FAISAL IRAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89662186,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AISYAH AZZAHRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 68780794,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AISYAH ISTIQOMAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89504728,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ALMA KARISA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83526894,
-   "PASSWORD": "sragen",
-   "NAMA": "AMI'ING CINDY DIVA PERMATA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81793303,
-   "PASSWORD": "jakarta",
-   "NAMA": "ANANDA INDRIANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81860276,
-   "PASSWORD": "sragen",
-   "NAMA": "ASYFA QHAILA KHAIRUNISA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82338220,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AYU FITRI NINGRUM",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88647912,
-   "PASSWORD": "karanganyar",
-   "NAMA": "CINDY FATIMAH ZAROH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77892019,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DANU RADID ADITIA ANANDA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 79630284,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DAVIT SRI WAHYUNI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81077610,
-   "PASSWORD": "temanggung",
-   "NAMA": "DELMA APRIANI EVANDARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 79415320,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DEWI SARBINI SETYOWATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86509946,
-   "PASSWORD": "karanganyar",
-   "NAMA": "EDHLIN LINTANG IRYANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75428393,
-   "PASSWORD": "sragen",
-   "NAMA": "ERNA WATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 72948981,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ERNI NURHAYATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88742276,
-   "PASSWORD": "karanganyar",
-   "NAMA": "HANIF NURUL ISTIQOMAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75431000,
-   "PASSWORD": "karanganyar",
-   "NAMA": "LIENA TRISTA ANINGTYAS",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 72633020,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MARCELLA INDAH ALAIKA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88937319,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MAUDY HESTIN LARASATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78824624,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MONA SARIYANTI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87330772,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MUHAMMAD ICHSAN ROZAQI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84691097,
-   "PASSWORD": "sragen",
-   "NAMA": "NADYA MEYLIA ANASTASYA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 74755206,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NUR FITRI YULIATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71630145,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NUR FITRIYAMSYAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77383467,
-   "PASSWORD": "sragen",
-   "NAMA": "PUTRA RAMADIKA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85831786,
-   "PASSWORD": "sragen",
-   "NAMA": "RAHMA AYU KINANTHI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89079207,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RINA WAHYUNINGSIH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89860583,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RIRIN EKA PRATIWI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71847528,
-   "PASSWORD": "sragen",
-   "NAMA": "SAIDATUL LATIEFAH AL BAREQI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87505028,
-   "PASSWORD": "sragen",
-   "NAMA": "SALMA TSANYATHA RAYYA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84771992,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SYIFA NUHA FAJRIYAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83597964,
-   "PASSWORD": "sragen",
-   "NAMA": "TITO ANDIKA PUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 72470084,
-   "PASSWORD": "karanganyar",
-   "NAMA": "TRIO AHMAD",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83918373,
-   "PASSWORD": "karanganyar",
-   "NAMA": "VINA WIDYA NAZIR",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82577682,
-   "PASSWORD": "karanganyar",
-   "NAMA": "WAHYU TRI UTAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71135668,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AGNIS KHOIRU NISA'",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 73734459,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANIZA RADINA NATASYA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86188193,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ARSYITA DANIA SYITS",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83616900,
-   "PASSWORD": "karanganyar",
-   "NAMA": "BACHTIAR TIMUR RAYA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87446511,
-   "PASSWORD": "karanganyar",
-   "NAMA": "BAIQ ALWARITS FAZA MARCLINO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81267786,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DENNISE MUTIARA AMANDA SARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 69976133,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DILA NININGSIH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88767481,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DWI ANGGA SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89583996,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DWI LESTARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81577902,
-   "PASSWORD": "karanganyar",
-   "NAMA": "EKA AGUSTINA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83197988,
-   "PASSWORD": "karanganyar",
-   "NAMA": "EKA TAMA WAHYU NUR AZWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87698884,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ELSA INDRIANA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 73671059,
-   "PASSWORD": "karanganyar",
-   "NAMA": "HAJID",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 92817749,
-   "PASSWORD": "sragen",
-   "NAMA": "HASNA HAFIFAH AZ ZAHRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 3073525062,
-   "PASSWORD": "bekasi",
-   "NAMA": "ILHAM MAULANA YUSUF",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 69152060,
-   "PASSWORD": "karanganyar",
-   "NAMA": "KHUMAYRO' ATHIFATUL ULYA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75871859,
-   "PASSWORD": "bekasi",
-   "NAMA": "KUSUMA PUTRI NOVITASARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82190600,
-   "PASSWORD": "karanganyar",
-   "NAMA": "LAUDYA NAFI LISTYANTI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82152269,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MUHAMMAD SADAM",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 74875813,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NADIA PUTRI AMBARWATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71466073,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NOVIANA AHYANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 68415466,
-   "PASSWORD": "karanganyar",
-   "NAMA": "PASYA RABANNI PUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 73681551,
-   "PASSWORD": "karanganyar",
-   "NAMA": "PRADIFTA MARSHANTYA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88451409,
-   "PASSWORD": "karanganyar",
-   "NAMA": "PUTRI AYU INDIANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78107864,
-   "PASSWORD": "karanganyar",
-   "NAMA": "QOLBI MUSTAFID",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 79669307,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RIZKY FAJAR OKTAVIAND",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82529192,
-   "PASSWORD": "sragen",
-   "NAMA": "SACHDA NADHI SANTOSO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87941380,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SELVIA AYU SAFITRI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88507349,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SILVA SEKAR FLORENZIA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86630376,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SRI JUNI LESTARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87597669,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SYAFIQA AULIA NISA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86602383,
-   "PASSWORD": "karanganyar",
-   "NAMA": "UHAI AULIA ZAHRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86734633,
-   "PASSWORD": "karanganyar",
-   "NAMA": "VIVIN NUR KHAZANAH SETYONINGSIH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81251952,
-   "PASSWORD": "karanganyar",
-   "NAMA": "WAHYU NUR HIDAYAT",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84423218,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ADINDA DENIS KARTIKA PUTRI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87306075,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AIDA PRANANDA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81449438,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ALDI PRABOWO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86977838,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ALFIN ARGA YOGA PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87197272,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ALIF PUJIATMOKO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 66936908,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANANDA NINO DWI CAHYO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86637031,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANJAR BAYU SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82493578,
-   "PASSWORD": "karanganyar",
-   "NAMA": "BAGUS PRIYONO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81165665,
-   "PASSWORD": "bekasi",
-   "NAMA": "DANI EFWAN SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75637943,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DENI AJI SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76643094,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DEVA PUTRA ANGGARA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83562127,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DEWI IRAWATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85193866,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FAJAR HARY PRASETYO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81154501,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FAUSAN PAMUNGKAS",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84093223,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FAUZAN ARIF NUR WICAKSONO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 79890522,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FITRIA MELATI OKTAVIANA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84882401,
-   "PASSWORD": "karanganyar",
-   "NAMA": "INDAH DWI LESTARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86947169,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ISNU MUNAWAR",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83489820,
-   "PASSWORD": "karanganyar",
-   "NAMA": "LUTFI RASYA SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82944923,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MAYA ERLIN OLIVIA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82895022,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MUHAMMAD DAFFA YUDYATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 94751766,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NURUL NUR ISLAM",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81240021,
-   "PASSWORD": "karanganyar",
-   "NAMA": "PUTRA ARDIKA SETIAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 73919312,
-   "PASSWORD": "karanganyar",
-   "NAMA": "REYHAN PRAMOJA HEGASWARA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75032414,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RIDWAN MURSANTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77879762,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SALMA NABILATUS-SAUSAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88703040,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SAMUDRA BAYU ATMOJO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 79018093,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SHEERLY AULIA SAPUTRI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82255016,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SYIFAUL FITRIA ANWAR",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83906958,
-   "PASSWORD": "karanganyar",
-   "NAMA": "TRI APRILIANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 74290782,
-   "PASSWORD": "karanganyar",
-   "NAMA": "YASIR ABDUL ROCHIM",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71696887,
-   "PASSWORD": "tangerang",
-   "NAMA": "YOSEA ANDREANO PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86882338,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ZAINUDDIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86921078,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AFRIZA HARIS EFANDA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77897359,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AGUS TOMI SETIAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76191893,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AHNAN ADI WIGUNA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83330542,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ALFANEO SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78360291,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ALIFFA FITRI OCTAVIA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76603982,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANTON BUDI CAHYONO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 73506460,
-   "PASSWORD": "sragen",
-   "NAMA": "AVATAR ADITYA PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84366195,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AZIZAH CANTIKA RAHMANITA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82860560,
-   "PASSWORD": "karanganyar",
-   "NAMA": "BANGKIT BIPA JAYA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88625633,
-   "PASSWORD": "karanganyar",
-   "NAMA": "CANDRA HAIDIR SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85289972,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DAFA SAJID ZAKI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89684837,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DWI WULANDARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77533579,
-   "PASSWORD": "karanganyar",
-   "NAMA": "EKA BAGUS PRASETYO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83973088,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ERLISNA EGA PURWANINGSIH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84988823,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FERINANDA ARDIFIANSAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85729743,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FERY BUDY PRASETYO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83950523,
-   "PASSWORD": "kab. semarang",
-   "NAMA": "HUTOMO CAHYO DWI ANGGORO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 141240557,
-   "PASSWORD": "sragen",
-   "NAMA": "IFIK EKA ANGGRAYNI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84773792,
-   "PASSWORD": "sragen",
-   "NAMA": "ILHAM ALFINDA PUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75163661,
-   "PASSWORD": "sragen",
-   "NAMA": "LABIEB ARDYANSYAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71610692,
-   "PASSWORD": "karanganyar",
-   "NAMA": "LAUERA MONA KAMAL SAUZAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83464862,
-   "PASSWORD": "karanganyar",
-   "NAMA": "LORENA OXTAVIANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77258561,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MUHAMAD ZALFA ZAHYA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76058721,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MUHAMMAD BAGUS IRAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77069683,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NAILA RISKI LARASATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76720448,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NIKO NOER PRASETYO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75348669,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NOFANDA SATRIA DEFA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86050654,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RAKA ARGATA DWIPANGGA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88874687,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RENATA P APRILIANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84630786,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RENO SYAH PUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84182693,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RISNA EKA MAHARANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71529022,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RM. RAFISYA PANDU SURYO WICAKSONO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84900602,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SATRIO RAGIL",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77260774,
-   "PASSWORD": "karanganyar",
-   "NAMA": "TIWI KUSUMAWATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77734189,
-   "PASSWORD": "karanganyar",
-   "NAMA": "YESSY NOVITASARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89713305,
-   "PASSWORD": "sragen",
-   "NAMA": "YONSEN INDRIANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77342354,
-   "PASSWORD": "sragen",
-   "NAMA": "ADRIAN ABIARDI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85591692,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AFRIAN ROLENDO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87142603,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AIYDHIL MIDTZI MUSTHAFA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76629665,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ALDO RISTANTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 72835453,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ALIF SAPUTRO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82131409,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANIS SETYO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83550141,
-   "PASSWORD": "karanganyar",
-   "NAMA": "BIVA MUHAMMAD SATRIA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82811584,
-   "PASSWORD": "karanganyar",
-   "NAMA": "CAHAYA ANGGITIYA HANDAYANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 64020021,
-   "PASSWORD": "karanganyar",
-   "NAMA": "CHELSI OLIFIA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 64752873,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DANANG PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 79608278,
-   "PASSWORD": "bekasi",
-   "NAMA": "DIMAS BAYU SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88775402,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FADILAH ARSYAD PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 74153900,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FAJAR YULIANTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 3075935307,
-   "PASSWORD": "karanganyar",
-   "NAMA": "GALIH JAFAR FATONI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 79438129,
-   "PASSWORD": "karanganyar",
-   "NAMA": "HASBY ANDYTA BINTANG PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87891001,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ILHAM WAHYU SETIAJI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85950623,
-   "PASSWORD": "karanganyar",
-   "NAMA": "INDAH SHOFIA LATHIFAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 74193234,
-   "PASSWORD": "karanganyar",
-   "NAMA": "INDRA PRASETIYAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86604310,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ISTIKOMAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88191759,
-   "PASSWORD": "karanganyar",
-   "NAMA": "KARIMAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83781304,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MARKUS SIDIQ WIBOWO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71038229,
-   "PASSWORD": "jakarta",
-   "NAMA": "MUHAMMAD GALIH RAMADHAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89136284,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MUSHADIK",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87894590,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RASYA ADIT SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83005077,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RENATA ELDA MERLIANA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88101200,
-   "PASSWORD": "karanganyar",
-   "NAMA": "REZZA OKTAFIANO SRIYANTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76346527,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ROHMAT FAUZAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88354450,
-   "PASSWORD": "sragen",
-   "NAMA": "TALITA HUMAIRASAFI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 72028515,
-   "PASSWORD": "karanganyar",
-   "NAMA": "TSANY MUHANA KHASIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77291437,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ZAINUL MUTTAQIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83492311,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ZIXTA MAHENDRA KUMALA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78732557,
-   "PASSWORD": "sragen",
-   "NAMA": "ADNAN MUKLIS ALMACKA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78494540,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ALIF MUSTHOFA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 65999348,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANANDA BAGUS SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83107476,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANDIKA PASHA PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77226291,
-   "PASSWORD": "sragen",
-   "NAMA": "ANDYKA SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75071001,
-   "PASSWORD": "karanganyar",
-   "NAMA": "BAGUS NUR SAPUTRO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88645180,
-   "PASSWORD": "karanganyar",
-   "NAMA": "CAHYO REYVALDY GUMELAR",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86504927,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DAFFA ADLY SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89954989,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DANDY GALANG PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86548420,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DAVIAN ARFAEL ADINATA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87005404,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DICKY SATRIA PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71701052,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DIMAS ARNO IRWANSYAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89785459,
-   "PASSWORD": "karanganyar",
-   "NAMA": "EKO BAYU SAPUTRO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83176920,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ELGA GALIH PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75779877,
-   "PASSWORD": "sekijang",
-   "NAMA": "FERDIAN BAGAS PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78058787,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FIRDAUS AL KHAIRU",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89977917,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FUAT RIADHUS SHOLIHIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82921919,
-   "PASSWORD": "karanganyar",
-   "NAMA": "GALANG PUTRA HARTANTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84782789,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MAHENDRA PUTRA SETIAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71717602,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MAULANA HAFID ARIZAL",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84747124,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MOHAMMAD JALIL ASH SHOLIH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88080557,
-   "PASSWORD": "sragen",
-   "NAMA": "NOVA FEBIAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89027301,
-   "PASSWORD": "bekasi",
-   "NAMA": "PAUNDRA RIZKY RYU PUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76339508,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RADITA FATAH RAMADHANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81455769,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RADITYA EKA WIJAYANTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82887766,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RAHIID HANAFI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 79396434,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RAIHAN MULYA SYAWALUDIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89715916,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RENDY HERMAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76674526,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RICO NUR RAHMAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83394172,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RISKY FAJAR JULI IRAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85418261,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ROFI'I",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76696385,
-   "PASSWORD": "sragen",
-   "NAMA": "TANZIL AL ISHAQ",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75899651,
-   "PASSWORD": "karanganyar",
-   "NAMA": "WAHYU HIDAYAT",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78675368,
-   "PASSWORD": "karanganyar",
-   "NAMA": "YUSUF WIBISONO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85830867,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ZAENAL MU'ARIEF SAFIRIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81918985,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AAN ABDI PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84705323,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ABDUL ROSYIID",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82645354,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ADHITYA ARI SETYAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 74652260,
-   "PASSWORD": "jakarta",
-   "NAMA": "ALDIANSYAH SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76720454,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ALDO TRISNO WIDIANTORO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86428361,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANANDA ALI MA'RUF",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83931179,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANGGA ARYANSYAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87783709,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ARWIDA VADZAL LAILATAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86727033,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ASRI JUANTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85927402,
-   "PASSWORD": "karanganyar",
-   "NAMA": "BRIYAN TYONDRA PUTRA PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 72839416,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DENTAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87251969,
-   "PASSWORD": "sragen",
-   "NAMA": "ELHAN CANDRA IRAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87048978,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FAUZI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87517260,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FERDIAN PANDU PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89277739,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FERDIYAN NANDA PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81286352,
-   "PASSWORD": "karanganyar",
-   "NAMA": "GALIH OKTAVIANTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89041731,
-   "PASSWORD": "karanganyar",
-   "NAMA": "GILANG MUHAMAD RIZKI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86855740,
-   "PASSWORD": "pangkalan bun",
-   "NAMA": "IKHA NURGANNAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 73988115,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ILHAM RAHMADHANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71379576,
-   "PASSWORD": "sragen",
-   "NAMA": "KHESHA ARFIO FREDLIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75792315,
-   "PASSWORD": "karanganyar",
-   "NAMA": "LURIANA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88955230,
-   "PASSWORD": "karanganyar",
-   "NAMA": "METARIAN NASYITH FIRDAUS",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 68329275,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MUHAMMAD HAIDZAR ALI YUZMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 73789736,
-   "PASSWORD": "karanganyar",
-   "NAMA": "PRATAMA ADHI NUGROHO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84652877,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RASYA WILDAN PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 74653969,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RIZAL YOGA PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86868843,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RIZKI ADHI NUGROHO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78903113,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RIZKY MIRAMDHAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 79111199,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ROHMAD NUR DIANSYAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78419829,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SATRIA RAHMADANIE",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84201632,
-   "PASSWORD": "grobogan",
-   "NAMA": "SATRIA RESTU ADITYA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76715966,
-   "PASSWORD": "karanganyar",
-   "NAMA": "TEGAR WIJIYANTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76745437,
-   "PASSWORD": "karanganyar",
-   "NAMA": "THOHIR MUSTHAFA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87972672,
-   "PASSWORD": "karanganyar",
-   "NAMA": "VICKY GUNTUR ADHA ARVA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89162755,
-   "PASSWORD": "karanganyar",
-   "NAMA": "YOGA SYAHPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81700472,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ZAID ADE JULNIO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86602016,
-   "PASSWORD": "sragen",
-   "NAMA": "ADITYA EKA PRIYATMOKO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 72077351,
-   "PASSWORD": "sragen",
-   "NAMA": "ADITYA PUTRA ANANTA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83180314,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ADITYA RAGIL WIBOWO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83373136,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AFKA PANGESTU",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82357207,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ARLIN BAYU WIBOWO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84084022,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ARYA DWI ANDIKA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83230682,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DENYSTA PRAMADANY",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89863440,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DWI ANDIKA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89243332,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FAREL EKA NURDIANTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88861471,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FIDELLIS NOVEBRYANNO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89624537,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FIJEI RAMNDA SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 72085617,
-   "PASSWORD": "ngawi",
-   "NAMA": "FIKRI FAIZ NA IL",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 79780866,
-   "PASSWORD": "sidodadi",
-   "NAMA": "GAGAH AWANG SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71753591,
-   "PASSWORD": "karanganyar",
-   "NAMA": "GERY GUNAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 64110041,
-   "PASSWORD": "karanganyar",
-   "NAMA": "GUNAWAN ADHI SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83951396,
-   "PASSWORD": "sragen",
-   "NAMA": "HENDI KURNIAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75867346,
-   "PASSWORD": "karanganyar",
-   "NAMA": "IBNU MUTTAQIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 66957869,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ILHAM PURYANA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75876320,
-   "PASSWORD": "karanganyar",
-   "NAMA": "JAYUS YULI SUBROTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87093057,
-   "PASSWORD": "karanganyar",
-   "NAMA": "KHOIRU FAKHRUDIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89092777,
-   "PASSWORD": "karanganyar",
-   "NAMA": "KHOIRUL NUR AFRIZA KATON PRASETYO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84903624,
-   "PASSWORD": "karanganyar",
-   "NAMA": "M.CHOERUL AMIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 76381550,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MUHAMMAD VIKRY ABDULLAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88588286,
-   "PASSWORD": "karanganyar",
-   "NAMA": "MUHAMMAD YANUAR ABIDIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71521931,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NABIL YADI ALFITO PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88896800,
-   "PASSWORD": "grobogan",
-   "NAMA": "OKTADITYA AHMAD PRADISTA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88035351,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RAFA ARYA SYARIFUDDIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84576121,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RAFI ARIF SYARIFUDDIN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89299510,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RAHMAD BUDI SANTOSO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85083105,
-   "PASSWORD": "sragen",
-   "NAMA": "RAHMAT WAHYUDI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83836450,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RIKI TRI SAPUTRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71672355,
-   "PASSWORD": "sragen",
-   "NAMA": "SEPTIADI PUTRAMA BUDI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89254571,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SOLEH NABIN MAULANA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 72218291,
-   "PASSWORD": "bogor",
-   "NAMA": "VICKY RAMADHAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82364158,
-   "PASSWORD": "karanganyar",
-   "NAMA": "WAHYUDI EKA SUHARTONO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 74754424,
-   "PASSWORD": "karanganyar",
-   "NAMA": "WIDIYANSYAH ABDUL AZIZ",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 74164704,
-   "PASSWORD": "sragen",
-   "NAMA": "AGUSTIN RISDIANNINGSIH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87719156,
-   "PASSWORD": "karanganyar",
-   "NAMA": "AIDAH VIKA NURJANAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84203693,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ALISKY PRATAMA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 73390456,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANANDA MAIDEIAN PANDJI PENGESTU",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84947347,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANGGUN DWI RAHMADHANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89540362,
-   "PASSWORD": "sragen",
-   "NAMA": "ANGGUN NUR AINI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83545359,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ANISA ELGA ANGGANTI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 87795106,
-   "PASSWORD": "karanganyar",
-   "NAMA": "APRILIA DWI SUSANTI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71304754,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ARTIKA NAIZZAFIRA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77941123,
-   "PASSWORD": "karanganyar",
-   "NAMA": "DEVIANA RAHMAWATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 72624622,
-   "PASSWORD": "karanganyar",
-   "NAMA": "EKA ANASTASYA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89808204,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ELSIA ENJELINA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 62938647,
-   "PASSWORD": "karanganyar",
-   "NAMA": "ENI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89558437,
-   "PASSWORD": "sragen",
-   "NAMA": "FITRI MILA ROHANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 86333586,
-   "PASSWORD": "karanganyar",
-   "NAMA": "FRANSISCA DWI HARYATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71257180,
-   "PASSWORD": "wonosobo",
-   "NAMA": "GALANG SETIAWAN",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83046957,
-   "PASSWORD": "karanganyar",
-   "NAMA": "GUSTIN LIASTARI RAHMADANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 83649069,
-   "PASSWORD": "karanganyar",
-   "NAMA": "JUNITA EKA ANJAINI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 84055974,
-   "PASSWORD": "karanganyar",
-   "NAMA": "LIZA NUR AISYAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 98411858,
-   "PASSWORD": "sragen",
-   "NAMA": "MEI NOFIYANTI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82913103,
-   "PASSWORD": "karanganyar",
-   "NAMA": "NOVA MUHAMMAD RIZKY",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81358130,
-   "PASSWORD": "sragen",
-   "NAMA": "NURUL KHUMAIROH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 77415461,
-   "PASSWORD": "karanganyar",
-   "NAMA": "PUJI LESTARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81052439,
-   "PASSWORD": "karanganyar",
-   "NAMA": "PUPUT NOVIANTI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 78932008,
-   "PASSWORD": "karanganyar",
-   "NAMA": "RAMADAN WARDANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 88101692,
-   "PASSWORD": "sragen",
-   "NAMA": "RENATHA IKA SUGIARTO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 81535522,
-   "PASSWORD": "sragen",
-   "NAMA": "RISQI ANASTASYA",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82576246,
-   "PASSWORD": "sragen",
-   "NAMA": "SEKAR RAHMAWATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 92387885,
-   "PASSWORD": "sragen",
-   "NAMA": "SHIVANA DIAN AYU PRAMESWARI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 85385760,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SILVIA RAHMAWATI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 79026992,
-   "PASSWORD": "karanganyar",
-   "NAMA": "SITI HANDAYANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 75823025,
-   "PASSWORD": "grobogan",
-   "NAMA": "SITI NURHASANAH",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 89501634,
-   "PASSWORD": "sragen",
-   "NAMA": "VINA INDRIYANI",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 71368740,
-   "PASSWORD": "karanganyar",
-   "NAMA": "WAHYU ADI SANTOSO",
-   "STATUS": "LULUS"
- },
- {
-   "NISN": 82176863,
-   "PASSWORD": "sragen",
-   "NAMA": "YAYUK SRI RAHAYU",
-   "STATUS": "LULUS"
- }
-]
+const siswa = [
+  {
+    "nisn": "0084355770",
+    "password": "karanganyar",
+    "nama": "AGUS FAHRI KURNIAWAN",
+    "status": "LULUS",
+    "file": "file/0084355770.pdf"
+  },
+  {
+    "nisn": "0053718059",
+    "password": "sragen",
+    "nama": "ALYANA PUTRI YAMTI",
+    "status": "LULUS",
+    "file": "file/0053718059.pdf"
+  },
+  {
+    "nisn": "0086101555",
+    "password": "malang",
+    "nama": "ANDISTI TRI ANJANI",
+    "status": "LULUS",
+    "file": "file/0086101555.pdf"
+  },
+  {
+    "nisn": "0073881920",
+    "password": "sragen",
+    "nama": "ANGGI WIDIYASTUTI",
+    "status": "LULUS",
+    "file": "file/0073881920.pdf"
+  },
+  {
+    "nisn": "0081595874",
+    "password": "karanganyar",
+    "nama": "ANIS ARIANTI",
+    "status": "LULUS",
+    "file": "file/0081595874.pdf"
+  },
+  {
+    "nisn": "0085392805",
+    "password": "karanganyar",
+    "nama": "ARIN NABILA KAUTSAR",
+    "status": "LULUS",
+    "file": "file/0085392805.pdf"
+  },
+  {
+    "nisn": "0078123963",
+    "password": "sragen",
+    "nama": "DANNI WIJAYA",
+    "status": "LULUS",
+    "file": "file/0078123963.pdf"
+  },
+  {
+    "nisn": "0077165890",
+    "password": "sragen",
+    "nama": "DESTIA KHOIRUNNISA",
+    "status": "LULUS",
+    "file": "file/0077165890.pdf"
+  },
+  {
+    "nisn": "0078401700",
+    "password": "karanganyar",
+    "nama": "DEWI USWATUN KHASANAH",
+    "status": "LULUS",
+    "file": "file/0078401700.pdf"
+  },
+  {
+    "nisn": "0084525520",
+    "password": "karanganyar",
+    "nama": "EKA SEPTIA RAMADANI",
+    "status": "LULUS",
+    "file": "file/0084525520.pdf"
+  },
+  {
+    "nisn": "0082854624",
+    "password": "sragen",
+    "nama": "FALDIANSYAH ANDRA WIGUNA",
+    "status": "LULUS",
+    "file": "file/0082854624.pdf"
+  },
+  {
+    "nisn": "0086993547",
+    "password": "ngawi",
+    "nama": "FANISA MAHARANI",
+    "status": "LULUS",
+    "file": "file/0086993547.pdf"
+  },
+  {
+    "nisn": "0089307459",
+    "password": "karanganyar",
+    "nama": "FEBRIANA EKA HAPSARI",
+    "status": "LULUS",
+    "file": "file/0089307459.pdf"
+  },
+  {
+    "nisn": "0088663565",
+    "password": "grobogan",
+    "nama": "FINA DEWI NOVITASARI",
+    "status": "LULUS",
+    "file": "file/0088663565.pdf"
+  },
+  {
+    "nisn": "0082796285",
+    "password": "grobogan",
+    "nama": "FIRANDA RIZKA AMILLAH",
+    "status": "LULUS",
+    "file": "file/0082796285.pdf"
+  },
+  {
+    "nisn": "0082169812",
+    "password": "karanganyar",
+    "nama": "GENDHIZ ARUM HANDAYANI",
+    "status": "LULUS",
+    "file": "file/0082169812.pdf"
+  },
+  {
+    "nisn": "0083866210",
+    "password": "karanganyar",
+    "nama": "GRACIELA SUBAKIR",
+    "status": "LULUS",
+    "file": "file/0083866210.pdf"
+  },
+  {
+    "nisn": "0072221800",
+    "password": "bekasi",
+    "nama": "IBTI SENJA PURNAMASARI",
+    "status": "LULUS",
+    "file": "file/0072221800.pdf"
+  },
+  {
+    "nisn": "0084335916",
+    "password": "sragen",
+    "nama": "ICHA NUR KOTIMAH",
+    "status": "LULUS",
+    "file": "file/0084335916.pdf"
+  },
+  {
+    "nisn": "0087011479",
+    "password": "tangerang",
+    "nama": "INTAN NUR AINI",
+    "status": "LULUS",
+    "file": "file/0087011479.pdf"
+  },
+  {
+    "nisn": "0087905445",
+    "password": "sidoharjo",
+    "nama": "INTAN NURAPRILLIYANA",
+    "status": "LULUS",
+    "file": "file/0087905445.pdf"
+  },
+  {
+    "nisn": "0084847390",
+    "password": "karanganyar",
+    "nama": "KHOIRUN NISA'",
+    "status": "LULUS",
+    "file": "file/0084847390.pdf"
+  },
+  {
+    "nisn": "0083391304",
+    "password": "karanganyar",
+    "nama": "MEISELA ANDRIYANI",
+    "status": "LULUS",
+    "file": "file/0083391304.pdf"
+  },
+  {
+    "nisn": "0083820828",
+    "password": "karanganyar",
+    "nama": "MUNTAWA ALWI ROJUL",
+    "status": "LULUS",
+    "file": "file/0083820828.pdf"
+  },
+  {
+    "nisn": "0084220980",
+    "password": "karanganyar",
+    "nama": "PUPUT WIDIYANINGSIH",
+    "status": "LULUS",
+    "file": "file/0084220980.pdf"
+  },
+  {
+    "nisn": "0089914476",
+    "password": "karanganyar",
+    "nama": "RINTANTIK SETIA NINGRUM",
+    "status": "LULUS",
+    "file": "file/0089914476.pdf"
+  },
+  {
+    "nisn": "0083942525",
+    "password": "karanganyar",
+    "nama": "SALSABILLAH KIRANI ANUGRAH",
+    "status": "LULUS",
+    "file": "file/0083942525.pdf"
+  },
+  {
+    "nisn": "0085913186",
+    "password": "karanganyar",
+    "nama": "SAMUEL JUNIASTORO",
+    "status": "LULUS",
+    "file": "file/0085913186.pdf"
+  },
+  {
+    "nisn": "0077635936",
+    "password": "karanganyar",
+    "nama": "SUCI PERTIWI",
+    "status": "LULUS",
+    "file": "file/0077635936.pdf"
+  },
+  {
+    "nisn": "0088170977",
+    "password": "tasikmalaya",
+    "nama": "VIRA SYAHRANI",
+    "status": "LULUS",
+    "file": "file/0088170977.pdf"
+  },
+  {
+    "nisn": "0083718338",
+    "password": "karanganyar",
+    "nama": "YOGA YULIANTO",
+    "status": "LULUS",
+    "file": "file/0083718338.pdf"
+  },
+  {
+    "nisn": "0083696191",
+    "password": "karanganyar",
+    "nama": "YUNITA BUNGA LESTARI",
+    "status": "LULUS",
+    "file": "file/0083696191.pdf"
+  },
+  {
+    "nisn": "0084463518",
+    "password": "karanganyar",
+    "nama": "ZULFAA RAFI'I HANIFAH",
+    "status": "LULUS",
+    "file": "file/0084463518.pdf"
+  },
+  {
+    "nisn": "0083090705",
+    "password": "bantul",
+    "nama": "ADELLIA CHIVA SEYNITA",
+    "status": "LULUS",
+    "file": "file/0083090705.pdf"
+  },
+  {
+    "nisn": "0087513588",
+    "password": "karanganyar",
+    "nama": "AGRI SETYA PRADANA",
+    "status": "LULUS",
+    "file": "file/0087513588.pdf"
+  },
+  {
+    "nisn": "0087815418",
+    "password": "sragen",
+    "nama": "ALDHI REZA ANANTA",
+    "status": "LULUS",
+    "file": "file/0087815418.pdf"
+  },
+  {
+    "nisn": "0087174385",
+    "password": "karanganyar",
+    "nama": "ALVIAN DWIRIANI",
+    "status": "LULUS",
+    "file": "file/0087174385.pdf"
+  },
+  {
+    "nisn": "0081833722",
+    "password": "karanganyar",
+    "nama": "ARDINA LHOREN",
+    "status": "LULUS",
+    "file": "file/0081833722.pdf"
+  },
+  {
+    "nisn": "0087772509",
+    "password": "karanganyar",
+    "nama": "BELA UMDATUL MUFIDAH",
+    "status": "LULUS",
+    "file": "file/0087772509.pdf"
+  },
+  {
+    "nisn": "0088220651",
+    "password": "karanganyar",
+    "nama": "BELINDA RAMADHANI",
+    "status": "LULUS",
+    "file": "file/0088220651.pdf"
+  },
+  {
+    "nisn": "0088467450",
+    "password": "karanganyar",
+    "nama": "CAHAYA WULAN JUNITA",
+    "status": "LULUS",
+    "file": "file/0088467450.pdf"
+  },
+  {
+    "nisn": "0082249085",
+    "password": "karanganyar",
+    "nama": "CEYSA PUTIANANTA",
+    "status": "LULUS",
+    "file": "file/0082249085.pdf"
+  },
+  {
+    "nisn": "0083274666",
+    "password": "karanganyar",
+    "nama": "DEVITA NUR HANIFFAH",
+    "status": "LULUS",
+    "file": "file/0083274666.pdf"
+  },
+  {
+    "nisn": "0071337615",
+    "password": "karanganyar",
+    "nama": "DEWI LESTARI",
+    "status": "LULUS",
+    "file": "file/0071337615.pdf"
+  },
+  {
+    "nisn": "0079844512",
+    "password": "sragen",
+    "nama": "EKA FITRIA SUSILOWATI",
+    "status": "LULUS",
+    "file": "file/0079844512.pdf"
+  },
+  {
+    "nisn": "0088350331",
+    "password": "karanganyar",
+    "nama": "EPI SAPUTRI",
+    "status": "LULUS",
+    "file": "file/0088350331.pdf"
+  },
+  {
+    "nisn": "0083546644",
+    "password": "karanganyar",
+    "nama": "ISTIQOMAH",
+    "status": "LULUS",
+    "file": "file/0083546644.pdf"
+  },
+  {
+    "nisn": "0086313317",
+    "password": "sragen",
+    "nama": "JAYLIN ALISYA DHIRIJAZINTA",
+    "status": "LULUS",
+    "file": "file/0086313317.pdf"
+  },
+  {
+    "nisn": "0081581726",
+    "password": "karanganyar",
+    "nama": "KHAILA PUTRI RAHAYU",
+    "status": "LULUS",
+    "file": "file/0081581726.pdf"
+  },
+  {
+    "nisn": "0066502609",
+    "password": "jakarta",
+    "nama": "KHAIRUNISYA MAWARNI",
+    "status": "LULUS",
+    "file": "file/0066502609.pdf"
+  },
+  {
+    "nisn": "0084515406",
+    "password": "karanganyar",
+    "nama": "KIRANA CHELSEA SETYOWATI",
+    "status": "LULUS",
+    "file": "file/0084515406.pdf"
+  },
+  {
+    "nisn": "0082242662",
+    "password": "karawang",
+    "nama": "M FARIS FIQRIATUL HANAFI",
+    "status": "LULUS",
+    "file": "file/0082242662.pdf"
+  },
+  {
+    "nisn": "0078891647",
+    "password": "karanganyar",
+    "nama": "MAYANGSARI SRI ANJANI",
+    "status": "LULUS",
+    "file": "file/0078891647.pdf"
+  },
+  {
+    "nisn": "0074892458",
+    "password": "karanganyar",
+    "nama": "MONICKA PUTRI SYAHARA",
+    "status": "LULUS",
+    "file": "file/0074892458.pdf"
+  },
+  {
+    "nisn": "0076322639",
+    "password": "karanganyar",
+    "nama": "MUTHIA RAMADANI",
+    "status": "LULUS",
+    "file": "file/0076322639.pdf"
+  },
+  {
+    "nisn": "0083492026",
+    "password": "karanganyar",
+    "nama": "MYAS PUTRI PURWANINGSIH",
+    "status": "LULUS",
+    "file": "file/0083492026.pdf"
+  },
+  {
+    "nisn": "0087956167",
+    "password": "karanganyar",
+    "nama": "NAJWA REGITA CAHYANI",
+    "status": "LULUS",
+    "file": "file/0087956167.pdf"
+  },
+  {
+    "nisn": "0071932614",
+    "password": "karanganyar",
+    "nama": "NASYWA NUR AMALIA",
+    "status": "LULUS",
+    "file": "file/0071932614.pdf"
+  },
+  {
+    "nisn": "0081784131",
+    "password": "karanganyar",
+    "nama": "NOVITA SULISTYORINI",
+    "status": "LULUS",
+    "file": "file/0081784131.pdf"
+  },
+  {
+    "nisn": "0082673876",
+    "password": "karanganyar",
+    "nama": "NUR ALDINNA SALSABILLA",
+    "status": "LULUS",
+    "file": "file/0082673876.pdf"
+  },
+  {
+    "nisn": "0086832870",
+    "password": "karanganyar",
+    "nama": "PANDU DWI SAPUTRO",
+    "status": "LULUS",
+    "file": "file/0086832870.pdf"
+  },
+  {
+    "nisn": "0085661277",
+    "password": "karanganyar",
+    "nama": "PUTRI NUR ANGGRAINI",
+    "status": "LULUS",
+    "file": "file/0085661277.pdf"
+  },
+  {
+    "nisn": "0087741682",
+    "password": "jakarta",
+    "nama": "RISQI SIDDIQ HENDRAWAN",
+    "status": "LULUS",
+    "file": "file/0087741682.pdf"
+  },
+  {
+    "nisn": "0084140092",
+    "password": "sragen",
+    "nama": "RIZMA FULICTA",
+    "status": "LULUS",
+    "file": "file/0084140092.pdf"
+  },
+  {
+    "nisn": "0088526588",
+    "password": "karanganyar",
+    "nama": "SILA RAMADHANI",
+    "status": "LULUS",
+    "file": "file/0088526588.pdf"
+  },
+  {
+    "nisn": "0086935938",
+    "password": "sragen",
+    "nama": "WINDA ASMARANI",
+    "status": "LULUS",
+    "file": "file/0086935938.pdf"
+  },
+  {
+    "nisn": "0085461100",
+    "password": "sragen",
+    "nama": "AHMAT FAISAL IRAWAN",
+    "status": "LULUS",
+    "file": "file/0085461100.pdf"
+  },
+  {
+    "nisn": "0089662186",
+    "password": "karanganyar",
+    "nama": "AISYAH AZZAHRA",
+    "status": "LULUS",
+    "file": "file/0089662186.pdf"
+  },
+  {
+    "nisn": "0068780794",
+    "password": "karanganyar",
+    "nama": "AISYAH ISTIQOMAH",
+    "status": "LULUS",
+    "file": "file/0068780794.pdf"
+  },
+  {
+    "nisn": "0089504728",
+    "password": "karanganyar",
+    "nama": "ALMA KARISA",
+    "status": "LULUS",
+    "file": "file/0089504728.pdf"
+  },
+  {
+    "nisn": "0083526894",
+    "password": "sragen",
+    "nama": "AMI'ING CINDY DIVA PERMATA",
+    "status": "LULUS",
+    "file": "file/0083526894.pdf"
+  },
+  {
+    "nisn": "0081793303",
+    "password": "jakarta",
+    "nama": "ANANDA INDRIANI",
+    "status": "LULUS",
+    "file": "file/0081793303.pdf"
+  },
+  {
+    "nisn": "0081860276",
+    "password": "sragen",
+    "nama": "ASYFA QHAILA KHAIRUNISA",
+    "status": "LULUS",
+    "file": "file/0081860276.pdf"
+  },
+  {
+    "nisn": "0082338220",
+    "password": "karanganyar",
+    "nama": "AYU FITRI NINGRUM",
+    "status": "LULUS",
+    "file": "file/0082338220.pdf"
+  },
+  {
+    "nisn": "0088647912",
+    "password": "karanganyar",
+    "nama": "CINDY FATIMAH ZAROH",
+    "status": "LULUS",
+    "file": "file/0088647912.pdf"
+  },
+  {
+    "nisn": "0077892019",
+    "password": "karanganyar",
+    "nama": "DANU RADID ADITIA ANANDA",
+    "status": "LULUS",
+    "file": "file/0077892019.pdf"
+  },
+  {
+    "nisn": "0079630284",
+    "password": "karanganyar",
+    "nama": "DAVIT SRI WAHYUNI",
+    "status": "LULUS",
+    "file": "file/0079630284.pdf"
+  },
+  {
+    "nisn": "0081077610",
+    "password": "temanggung",
+    "nama": "DELMA APRIANI EVANDARI",
+    "status": "LULUS",
+    "file": "file/0081077610.pdf"
+  },
+  {
+    "nisn": "0079415320",
+    "password": "karanganyar",
+    "nama": "DEWI SARBINI SETYOWATI",
+    "status": "LULUS",
+    "file": "file/0079415320.pdf"
+  },
+  {
+    "nisn": "0086509946",
+    "password": "karanganyar",
+    "nama": "EDHLIN LINTANG IRYANI",
+    "status": "LULUS",
+    "file": "file/0086509946.pdf"
+  },
+  {
+    "nisn": "0075428393",
+    "password": "sragen",
+    "nama": "ERNA WATI",
+    "status": "LULUS",
+    "file": "file/0075428393.pdf"
+  },
+  {
+    "nisn": "0072948981",
+    "password": "karanganyar",
+    "nama": "ERNI NURHAYATI",
+    "status": "LULUS",
+    "file": "file/0072948981.pdf"
+  },
+  {
+    "nisn": "0088742276",
+    "password": "karanganyar",
+    "nama": "HANIF NURUL ISTIQOMAH",
+    "status": "LULUS",
+    "file": "file/0088742276.pdf"
+  },
+  {
+    "nisn": "0075431000",
+    "password": "karanganyar",
+    "nama": "LIENA TRISTA ANINGTYAS",
+    "status": "LULUS",
+    "file": "file/0075431000.pdf"
+  },
+  {
+    "nisn": "0072633020",
+    "password": "karanganyar",
+    "nama": "MARCELLA INDAH ALAIKA",
+    "status": "LULUS",
+    "file": "file/0072633020.pdf"
+  },
+  {
+    "nisn": "0088937319",
+    "password": "karanganyar",
+    "nama": "MAUDY HESTIN LARASATI",
+    "status": "LULUS",
+    "file": "file/0088937319.pdf"
+  },
+  {
+    "nisn": "0078824624",
+    "password": "karanganyar",
+    "nama": "MONA SARIYANTI",
+    "status": "LULUS",
+    "file": "file/0078824624.pdf"
+  },
+  {
+    "nisn": "0087330772",
+    "password": "karanganyar",
+    "nama": "MUHAMMAD ICHSAN ROZAQI",
+    "status": "LULUS",
+    "file": "file/0087330772.pdf"
+  },
+  {
+    "nisn": "0084691097",
+    "password": "sragen",
+    "nama": "NADYA MEYLIA ANASTASYA",
+    "status": "LULUS",
+    "file": "file/0084691097.pdf"
+  },
+  {
+    "nisn": "0074755206",
+    "password": "karanganyar",
+    "nama": "NUR FITRI YULIATI",
+    "status": "LULUS",
+    "file": "file/0074755206.pdf"
+  },
+  {
+    "nisn": "0071630145",
+    "password": "karanganyar",
+    "nama": "NUR FITRIYAMSYAH",
+    "status": "LULUS",
+    "file": "file/0071630145.pdf"
+  },
+  {
+    "nisn": "0077383467",
+    "password": "sragen",
+    "nama": "PUTRA RAMADIKA",
+    "status": "LULUS",
+    "file": "file/0077383467.pdf"
+  },
+  {
+    "nisn": "0085831786",
+    "password": "sragen",
+    "nama": "RAHMA AYU KINANTHI",
+    "status": "LULUS",
+    "file": "file/0085831786.pdf"
+  },
+  {
+    "nisn": "0089079207",
+    "password": "karanganyar",
+    "nama": "RINA WAHYUNINGSIH",
+    "status": "LULUS",
+    "file": "file/0089079207.pdf"
+  },
+  {
+    "nisn": "0089860583",
+    "password": "karanganyar",
+    "nama": "RIRIN EKA PRATIWI",
+    "status": "LULUS",
+    "file": "file/0089860583.pdf"
+  },
+  {
+    "nisn": "0071847528",
+    "password": "sragen",
+    "nama": "SAIDATUL LATIEFAH AL BAREQI",
+    "status": "LULUS",
+    "file": "file/0071847528.pdf"
+  },
+  {
+    "nisn": "0087505028",
+    "password": "sragen",
+    "nama": "SALMA TSANYATHA RAYYA",
+    "status": "LULUS",
+    "file": "file/0087505028.pdf"
+  },
+  {
+    "nisn": "0084771992",
+    "password": "karanganyar",
+    "nama": "SYIFA NUHA FAJRIYAH",
+    "status": "LULUS",
+    "file": "file/0084771992.pdf"
+  },
+  {
+    "nisn": "0083597964",
+    "password": "sragen",
+    "nama": "TITO ANDIKA PUTRA",
+    "status": "LULUS",
+    "file": "file/0083597964.pdf"
+  },
+  {
+    "nisn": "0072470084",
+    "password": "karanganyar",
+    "nama": "TRIO AHMAD",
+    "status": "LULUS",
+    "file": "file/0072470084.pdf"
+  },
+  {
+    "nisn": "0083918373",
+    "password": "karanganyar",
+    "nama": "VINA WIDYA NAZIR",
+    "status": "LULUS",
+    "file": "file/0083918373.pdf"
+  },
+  {
+    "nisn": "0082577682",
+    "password": "karanganyar",
+    "nama": "WAHYU TRI UTAMA",
+    "status": "LULUS",
+    "file": "file/0082577682.pdf"
+  },
+  {
+    "nisn": "0071135668",
+    "password": "karanganyar",
+    "nama": "AGNIS KHOIRU NISA'",
+    "status": "LULUS",
+    "file": "file/0071135668.pdf"
+  },
+  {
+    "nisn": "0073734459",
+    "password": "karanganyar",
+    "nama": "ANIZA RADINA NATASYA",
+    "status": "LULUS",
+    "file": "file/0073734459.pdf"
+  },
+  {
+    "nisn": "0086188193",
+    "password": "karanganyar",
+    "nama": "ARSYITA DANIA SYITS",
+    "status": "LULUS",
+    "file": "file/0086188193.pdf"
+  },
+  {
+    "nisn": "0083616900",
+    "password": "karanganyar",
+    "nama": "BACHTIAR TIMUR RAYA",
+    "status": "LULUS",
+    "file": "file/0083616900.pdf"
+  },
+  {
+    "nisn": "0087446511",
+    "password": "karanganyar",
+    "nama": "BAIQ ALWARITS FAZA MARCLINO",
+    "status": "LULUS",
+    "file": "file/0087446511.pdf"
+  },
+  {
+    "nisn": "0081267786",
+    "password": "karanganyar",
+    "nama": "DENNISE MUTIARA AMANDA SARI",
+    "status": "LULUS",
+    "file": "file/0081267786.pdf"
+  },
+  {
+    "nisn": "0069976133",
+    "password": "karanganyar",
+    "nama": "DILA NININGSIH",
+    "status": "LULUS",
+    "file": "file/0069976133.pdf"
+  },
+  {
+    "nisn": "0088767481",
+    "password": "karanganyar",
+    "nama": "DWI ANGGA SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0088767481.pdf"
+  },
+  {
+    "nisn": "0089583996",
+    "password": "karanganyar",
+    "nama": "DWI LESTARI",
+    "status": "LULUS",
+    "file": "file/0089583996.pdf"
+  },
+  {
+    "nisn": "0081577902",
+    "password": "karanganyar",
+    "nama": "EKA AGUSTINA",
+    "status": "LULUS",
+    "file": "file/0081577902.pdf"
+  },
+  {
+    "nisn": "0083197988",
+    "password": "karanganyar",
+    "nama": "EKA TAMA WAHYU NUR AZWAN",
+    "status": "LULUS",
+    "file": "file/0083197988.pdf"
+  },
+  {
+    "nisn": "0087698884",
+    "password": "karanganyar",
+    "nama": "ELSA INDRIANA",
+    "status": "LULUS",
+    "file": "file/0087698884.pdf"
+  },
+  {
+    "nisn": "0073671059",
+    "password": "karanganyar",
+    "nama": "HAJID",
+    "status": "LULUS",
+    "file": "file/0073671059.pdf"
+  },
+  {
+    "nisn": "0092817749",
+    "password": "sragen",
+    "nama": "HASNA HAFIFAH AZ ZAHRA",
+    "status": "LULUS",
+    "file": "file/0092817749.pdf"
+  },
+  {
+    "nisn": "3073525062",
+    "password": "bekasi",
+    "nama": "ILHAM MAULANA YUSUF",
+    "status": "LULUS",
+    "file": "file/3073525062.pdf"
+  },
+  {
+    "nisn": "0069152060",
+    "password": "karanganyar",
+    "nama": "KHUMAYRO' ATHIFATUL ULYA",
+    "status": "LULUS",
+    "file": "file/0069152060.pdf"
+  },
+  {
+    "nisn": "0075871859",
+    "password": "bekasi",
+    "nama": "KUSUMA PUTRI NOVITASARI",
+    "status": "LULUS",
+    "file": "file/0075871859.pdf"
+  },
+  {
+    "nisn": "0082190600",
+    "password": "karanganyar",
+    "nama": "LAUDYA NAFI LISTYANTI",
+    "status": "LULUS",
+    "file": "file/0082190600.pdf"
+  },
+  {
+    "nisn": "0082152269",
+    "password": "karanganyar",
+    "nama": "MUHAMMAD SADAM",
+    "status": "LULUS",
+    "file": "file/0082152269.pdf"
+  },
+  {
+    "nisn": "0074875813",
+    "password": "karanganyar",
+    "nama": "NADIA PUTRI AMBARWATI",
+    "status": "LULUS",
+    "file": "file/0074875813.pdf"
+  },
+  {
+    "nisn": "0071466073",
+    "password": "karanganyar",
+    "nama": "NOVIANA AHYANI",
+    "status": "LULUS",
+    "file": "file/0071466073.pdf"
+  },
+  {
+    "nisn": "0068415466",
+    "password": "karanganyar",
+    "nama": "PASYA RABANNI PUTRA",
+    "status": "LULUS",
+    "file": "file/0068415466.pdf"
+  },
+  {
+    "nisn": "0073681551",
+    "password": "karanganyar",
+    "nama": "PRADIFTA MARSHANTYA",
+    "status": "LULUS",
+    "file": "file/0073681551.pdf"
+  },
+  {
+    "nisn": "0088451409",
+    "password": "karanganyar",
+    "nama": "PUTRI AYU INDIANI",
+    "status": "LULUS",
+    "file": "file/0088451409.pdf"
+  },
+  {
+    "nisn": "0078107864",
+    "password": "karanganyar",
+    "nama": "QOLBI MUSTAFID",
+    "status": "LULUS",
+    "file": "file/0078107864.pdf"
+  },
+  {
+    "nisn": "0079669307",
+    "password": "karanganyar",
+    "nama": "RIZKY FAJAR OKTAVIAND",
+    "status": "LULUS",
+    "file": "file/0079669307.pdf"
+  },
+  {
+    "nisn": "0082529192",
+    "password": "sragen",
+    "nama": "SACHDA NADHI SANTOSO",
+    "status": "LULUS",
+    "file": "file/0082529192.pdf"
+  },
+  {
+    "nisn": "0087941380",
+    "password": "karanganyar",
+    "nama": "SELVIA AYU SAFITRI",
+    "status": "LULUS",
+    "file": "file/0087941380.pdf"
+  },
+  {
+    "nisn": "0088507349",
+    "password": "karanganyar",
+    "nama": "SILVA SEKAR FLORENZIA",
+    "status": "LULUS",
+    "file": "file/0088507349.pdf"
+  },
+  {
+    "nisn": "0086630376",
+    "password": "karanganyar",
+    "nama": "SRI JUNI LESTARI",
+    "status": "LULUS",
+    "file": "file/0086630376.pdf"
+  },
+  {
+    "nisn": "0087597669",
+    "password": "karanganyar",
+    "nama": "SYAFIQA AULIA NISA",
+    "status": "LULUS",
+    "file": "file/0087597669.pdf"
+  },
+  {
+    "nisn": "0086602383",
+    "password": "karanganyar",
+    "nama": "UHAI AULIA ZAHRA",
+    "status": "LULUS",
+    "file": "file/0086602383.pdf"
+  },
+  {
+    "nisn": "0086734633",
+    "password": "karanganyar",
+    "nama": "VIVIN NUR KHAZANAH SETYONINGSIH",
+    "status": "LULUS",
+    "file": "file/0086734633.pdf"
+  },
+  {
+    "nisn": "0081251952",
+    "password": "karanganyar",
+    "nama": "WAHYU NUR HIDAYAT",
+    "status": "LULUS",
+    "file": "file/0081251952.pdf"
+  },
+  {
+    "nisn": "0084423218",
+    "password": "karanganyar",
+    "nama": "ADINDA DENIS KARTIKA PUTRI",
+    "status": "LULUS",
+    "file": "file/0084423218.pdf"
+  },
+  {
+    "nisn": "0087306075",
+    "password": "karanganyar",
+    "nama": "AIDA PRANANDA",
+    "status": "LULUS",
+    "file": "file/0087306075.pdf"
+  },
+  {
+    "nisn": "0081449438",
+    "password": "karanganyar",
+    "nama": "ALDI PRABOWO",
+    "status": "LULUS",
+    "file": "file/0081449438.pdf"
+  },
+  {
+    "nisn": "0086977838",
+    "password": "karanganyar",
+    "nama": "ALFIN ARGA YOGA PRATAMA",
+    "status": "LULUS",
+    "file": "file/0086977838.pdf"
+  },
+  {
+    "nisn": "0087197272",
+    "password": "karanganyar",
+    "nama": "ALIF PUJIATMOKO",
+    "status": "LULUS",
+    "file": "file/0087197272.pdf"
+  },
+  {
+    "nisn": "0066936908",
+    "password": "karanganyar",
+    "nama": "ANANDA NINO DWI CAHYO",
+    "status": "LULUS",
+    "file": "file/0066936908.pdf"
+  },
+  {
+    "nisn": "0086637031",
+    "password": "karanganyar",
+    "nama": "ANJAR BAYU SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0086637031.pdf"
+  },
+  {
+    "nisn": "0082493578",
+    "password": "karanganyar",
+    "nama": "BAGUS PRIYONO",
+    "status": "LULUS",
+    "file": "file/0082493578.pdf"
+  },
+  {
+    "nisn": "0081165665",
+    "password": "bekasi",
+    "nama": "DANI EFWAN SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0081165665.pdf"
+  },
+  {
+    "nisn": "0075637943",
+    "password": "karanganyar",
+    "nama": "DENI AJI SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0075637943.pdf"
+  },
+  {
+    "nisn": "0076643094",
+    "password": "karanganyar",
+    "nama": "DEVA PUTRA ANGGARA",
+    "status": "LULUS",
+    "file": "file/0076643094.pdf"
+  },
+  {
+    "nisn": "0083562127",
+    "password": "karanganyar",
+    "nama": "DEWI IRAWATI",
+    "status": "LULUS",
+    "file": "file/0083562127.pdf"
+  },
+  {
+    "nisn": "0085193866",
+    "password": "karanganyar",
+    "nama": "FAJAR HARY PRASETYO",
+    "status": "LULUS",
+    "file": "file/0085193866.pdf"
+  },
+  {
+    "nisn": "0081154501",
+    "password": "karanganyar",
+    "nama": "FAUSAN PAMUNGKAS",
+    "status": "LULUS",
+    "file": "file/0081154501.pdf"
+  },
+  {
+    "nisn": "0084093223",
+    "password": "karanganyar",
+    "nama": "FAUZAN ARIF NUR WICAKSONO",
+    "status": "LULUS",
+    "file": "file/0084093223.pdf"
+  },
+  {
+    "nisn": "0079890522",
+    "password": "karanganyar",
+    "nama": "FITRIA MELATI OKTAVIANA",
+    "status": "LULUS",
+    "file": "file/0079890522.pdf"
+  },
+  {
+    "nisn": "0084882401",
+    "password": "karanganyar",
+    "nama": "INDAH DWI LESTARI",
+    "status": "LULUS",
+    "file": "file/0084882401.pdf"
+  },
+  {
+    "nisn": "0086947169",
+    "password": "karanganyar",
+    "nama": "ISNU MUNAWAR",
+    "status": "LULUS",
+    "file": "file/0086947169.pdf"
+  },
+  {
+    "nisn": "0083489820",
+    "password": "karanganyar",
+    "nama": "LUTFI RASYA SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0083489820.pdf"
+  },
+  {
+    "nisn": "0082944923",
+    "password": "karanganyar",
+    "nama": "MAYA ERLIN OLIVIA",
+    "status": "LULUS",
+    "file": "file/0082944923.pdf"
+  },
+  {
+    "nisn": "0082895022",
+    "password": "karanganyar",
+    "nama": "MUHAMMAD DAFFA YUDYATAMA",
+    "status": "LULUS",
+    "file": "file/0082895022.pdf"
+  },
+  {
+    "nisn": "0094751766",
+    "password": "karanganyar",
+    "nama": "NURUL NUR ISLAM",
+    "status": "LULUS",
+    "file": "file/0094751766.pdf"
+  },
+  {
+    "nisn": "0081240021",
+    "password": "karanganyar",
+    "nama": "PUTRA ARDIKA SETIAWAN",
+    "status": "LULUS",
+    "file": "file/0081240021.pdf"
+  },
+  {
+    "nisn": "0073919312",
+    "password": "karanganyar",
+    "nama": "REYHAN PRAMOJA HEGASWARA",
+    "status": "LULUS",
+    "file": "file/0073919312.pdf"
+  },
+  {
+    "nisn": "0075032414",
+    "password": "karanganyar",
+    "nama": "RIDWAN MURSANTO",
+    "status": "LULUS",
+    "file": "file/0075032414.pdf"
+  },
+  {
+    "nisn": "0077879762",
+    "password": "karanganyar",
+    "nama": "SALMA NABILATUS-SAUSAN",
+    "status": "LULUS",
+    "file": "file/0077879762.pdf"
+  },
+  {
+    "nisn": "0088703040",
+    "password": "karanganyar",
+    "nama": "SAMUDRA BAYU ATMOJO",
+    "status": "LULUS",
+    "file": "file/0088703040.pdf"
+  },
+  {
+    "nisn": "0079018093",
+    "password": "karanganyar",
+    "nama": "SHEERLY AULIA SAPUTRI",
+    "status": "LULUS",
+    "file": "file/0079018093.pdf"
+  },
+  {
+    "nisn": "0082255016",
+    "password": "karanganyar",
+    "nama": "SYIFAUL FITRIA ANWAR",
+    "status": "LULUS",
+    "file": "file/0082255016.pdf"
+  },
+  {
+    "nisn": "0083906958",
+    "password": "karanganyar",
+    "nama": "TRI APRILIANI",
+    "status": "LULUS",
+    "file": "file/0083906958.pdf"
+  },
+  {
+    "nisn": "0074290782",
+    "password": "karanganyar",
+    "nama": "YASIR ABDUL ROCHIM",
+    "status": "LULUS",
+    "file": "file/0074290782.pdf"
+  },
+  {
+    "nisn": "0071696887",
+    "password": "tangerang",
+    "nama": "YOSEA ANDREANO PRATAMA",
+    "status": "LULUS",
+    "file": "file/0071696887.pdf"
+  },
+  {
+    "nisn": "0086882338",
+    "password": "karanganyar",
+    "nama": "ZAINUDDIN",
+    "status": "LULUS",
+    "file": "file/0086882338.pdf"
+  },
+  {
+    "nisn": "0086921078",
+    "password": "karanganyar",
+    "nama": "AFRIZA HARIS EFANDA",
+    "status": "LULUS",
+    "file": "file/0086921078.pdf"
+  },
+  {
+    "nisn": "0077897359",
+    "password": "karanganyar",
+    "nama": "AGUS TOMI SETIAWAN",
+    "status": "LULUS",
+    "file": "file/0077897359.pdf"
+  },
+  {
+    "nisn": "0076191893",
+    "password": "karanganyar",
+    "nama": "AHNAN ADI WIGUNA",
+    "status": "LULUS",
+    "file": "file/0076191893.pdf"
+  },
+  {
+    "nisn": "0083330542",
+    "password": "karanganyar",
+    "nama": "ALFANEO SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0083330542.pdf"
+  },
+  {
+    "nisn": "0078360291",
+    "password": "karanganyar",
+    "nama": "ALIFFA FITRI OCTAVIA",
+    "status": "LULUS",
+    "file": "file/0078360291.pdf"
+  },
+  {
+    "nisn": "0076603982",
+    "password": "karanganyar",
+    "nama": "ANTON BUDI CAHYONO",
+    "status": "LULUS",
+    "file": "file/0076603982.pdf"
+  },
+  {
+    "nisn": "0073506460",
+    "password": "sragen",
+    "nama": "AVATAR ADITYA PRATAMA",
+    "status": "LULUS",
+    "file": "file/0073506460.pdf"
+  },
+  {
+    "nisn": "0084366195",
+    "password": "karanganyar",
+    "nama": "AZIZAH CANTIKA RAHMANITA",
+    "status": "LULUS",
+    "file": "file/0084366195.pdf"
+  },
+  {
+    "nisn": "0082860560",
+    "password": "karanganyar",
+    "nama": "BANGKIT BIPA JAYA",
+    "status": "LULUS",
+    "file": "file/0082860560.pdf"
+  },
+  {
+    "nisn": "0088625633",
+    "password": "karanganyar",
+    "nama": "CANDRA HAIDIR SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0088625633.pdf"
+  },
+  {
+    "nisn": "0085289972",
+    "password": "karanganyar",
+    "nama": "DAFA SAJID ZAKI",
+    "status": "LULUS",
+    "file": "file/0085289972.pdf"
+  },
+  {
+    "nisn": "0089684837",
+    "password": "karanganyar",
+    "nama": "DWI WULANDARI",
+    "status": "LULUS",
+    "file": "file/0089684837.pdf"
+  },
+  {
+    "nisn": "0077533579",
+    "password": "karanganyar",
+    "nama": "EKA BAGUS PRASETYO",
+    "status": "LULUS",
+    "file": "file/0077533579.pdf"
+  },
+  {
+    "nisn": "0083973088",
+    "password": "karanganyar",
+    "nama": "ERLISNA EGA PURWANINGSIH",
+    "status": "LULUS",
+    "file": "file/0083973088.pdf"
+  },
+  {
+    "nisn": "0084988823",
+    "password": "karanganyar",
+    "nama": "FERINANDA ARDIFIANSAH",
+    "status": "LULUS",
+    "file": "file/0084988823.pdf"
+  },
+  {
+    "nisn": "0085729743",
+    "password": "karanganyar",
+    "nama": "FERY BUDY PRASETYO",
+    "status": "LULUS",
+    "file": "file/0085729743.pdf"
+  },
+  {
+    "nisn": "0083950523",
+    "password": "kab. semarang",
+    "nama": "HUTOMO CAHYO DWI ANGGORO",
+    "status": "LULUS",
+    "file": "file/0083950523.pdf"
+  },
+  {
+    "nisn": "0141240557",
+    "password": "sragen",
+    "nama": "IFIK EKA ANGGRAYNI",
+    "status": "LULUS",
+    "file": "file/0141240557.pdf"
+  },
+  {
+    "nisn": "0084773792",
+    "password": "sragen",
+    "nama": "ILHAM ALFINDA PUTRA",
+    "status": "LULUS",
+    "file": "file/0084773792.pdf"
+  },
+  {
+    "nisn": "0075163661",
+    "password": "sragen",
+    "nama": "LABIEB ARDYANSYAH",
+    "status": "LULUS",
+    "file": "file/0075163661.pdf"
+  },
+  {
+    "nisn": "0071610692",
+    "password": "karanganyar",
+    "nama": "LAUERA MONA KAMAL SAUZAN",
+    "status": "LULUS",
+    "file": "file/0071610692.pdf"
+  },
+  {
+    "nisn": "0083464862",
+    "password": "karanganyar",
+    "nama": "LORENA OXTAVIANI",
+    "status": "LULUS",
+    "file": "file/0083464862.pdf"
+  },
+  {
+    "nisn": "0077258561",
+    "password": "karanganyar",
+    "nama": "MUHAMAD ZALFA ZAHYA",
+    "status": "LULUS",
+    "file": "file/0077258561.pdf"
+  },
+  {
+    "nisn": "0076058721",
+    "password": "karanganyar",
+    "nama": "MUHAMMAD BAGUS IRAWAN",
+    "status": "LULUS",
+    "file": "file/0076058721.pdf"
+  },
+  {
+    "nisn": "0077069683",
+    "password": "karanganyar",
+    "nama": "NAILA RISKI LARASATI",
+    "status": "LULUS",
+    "file": "file/0077069683.pdf"
+  },
+  {
+    "nisn": "0076720448",
+    "password": "karanganyar",
+    "nama": "NIKO NOER PRASETYO",
+    "status": "LULUS",
+    "file": "file/0076720448.pdf"
+  },
+  {
+    "nisn": "0075348669",
+    "password": "karanganyar",
+    "nama": "NOFANDA SATRIA DEFA",
+    "status": "LULUS",
+    "file": "file/0075348669.pdf"
+  },
+  {
+    "nisn": "0086050654",
+    "password": "karanganyar",
+    "nama": "RAKA ARGATA DWIPANGGA",
+    "status": "LULUS",
+    "file": "file/0086050654.pdf"
+  },
+  {
+    "nisn": "0088874687",
+    "password": "karanganyar",
+    "nama": "RENATA P APRILIANI",
+    "status": "LULUS",
+    "file": "file/0088874687.pdf"
+  },
+  {
+    "nisn": "0084630786",
+    "password": "karanganyar",
+    "nama": "RENO SYAH PUTRA",
+    "status": "LULUS",
+    "file": "file/0084630786.pdf"
+  },
+  {
+    "nisn": "0084182693",
+    "password": "karanganyar",
+    "nama": "RISNA EKA MAHARANI",
+    "status": "LULUS",
+    "file": "file/0084182693.pdf"
+  },
+  {
+    "nisn": "0071529022",
+    "password": "karanganyar",
+    "nama": "RM. RAFISYA PANDU SURYO WICAKSONO",
+    "status": "LULUS",
+    "file": "file/0071529022.pdf"
+  },
+  {
+    "nisn": "0084900602",
+    "password": "karanganyar",
+    "nama": "SATRIO RAGIL",
+    "status": "LULUS",
+    "file": "file/0084900602.pdf"
+  },
+  {
+    "nisn": "0077260774",
+    "password": "karanganyar",
+    "nama": "TIWI KUSUMAWATI",
+    "status": "LULUS",
+    "file": "file/0077260774.pdf"
+  },
+  {
+    "nisn": "0077734189",
+    "password": "karanganyar",
+    "nama": "YESSY NOVITASARI",
+    "status": "LULUS",
+    "file": "file/0077734189.pdf"
+  },
+  {
+    "nisn": "0089713305",
+    "password": "sragen",
+    "nama": "YONSEN INDRIANI",
+    "status": "LULUS",
+    "file": "file/0089713305.pdf"
+  },
+  {
+    "nisn": "0077342354",
+    "password": "sragen",
+    "nama": "ADRIAN ABIARDI",
+    "status": "LULUS",
+    "file": "file/0077342354.pdf"
+  },
+  {
+    "nisn": "0085591692",
+    "password": "karanganyar",
+    "nama": "AFRIAN ROLENDO",
+    "status": "LULUS",
+    "file": "file/0085591692.pdf"
+  },
+  {
+    "nisn": "0087142603",
+    "password": "karanganyar",
+    "nama": "AIYDHIL MIDTZI MUSTHAFA",
+    "status": "LULUS",
+    "file": "file/0087142603.pdf"
+  },
+  {
+    "nisn": "0076629665",
+    "password": "karanganyar",
+    "nama": "ALDO RISTANTO",
+    "status": "LULUS",
+    "file": "file/0076629665.pdf"
+  },
+  {
+    "nisn": "0072835453",
+    "password": "karanganyar",
+    "nama": "ALIF SAPUTRO",
+    "status": "LULUS",
+    "file": "file/0072835453.pdf"
+  },
+  {
+    "nisn": "0082131409",
+    "password": "karanganyar",
+    "nama": "ANIS SETYO",
+    "status": "LULUS",
+    "file": "file/0082131409.pdf"
+  },
+  {
+    "nisn": "0083550141",
+    "password": "karanganyar",
+    "nama": "BIVA MUHAMMAD SATRIA",
+    "status": "LULUS",
+    "file": "file/0083550141.pdf"
+  },
+  {
+    "nisn": "0082811584",
+    "password": "karanganyar",
+    "nama": "CAHAYA ANGGITIYA HANDAYANI",
+    "status": "LULUS",
+    "file": "file/0082811584.pdf"
+  },
+  {
+    "nisn": "0064020021",
+    "password": "karanganyar",
+    "nama": "CHELSI OLIFIA",
+    "status": "LULUS",
+    "file": "file/0064020021.pdf"
+  },
+  {
+    "nisn": "0064752873",
+    "password": "karanganyar",
+    "nama": "DANANG PRATAMA",
+    "status": "LULUS",
+    "file": "file/0064752873.pdf"
+  },
+  {
+    "nisn": "0079608278",
+    "password": "bekasi",
+    "nama": "DIMAS BAYU SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0079608278.pdf"
+  },
+  {
+    "nisn": "0088775402",
+    "password": "karanganyar",
+    "nama": "FADILAH ARSYAD PRATAMA",
+    "status": "LULUS",
+    "file": "file/0088775402.pdf"
+  },
+  {
+    "nisn": "0074153900",
+    "password": "karanganyar",
+    "nama": "FAJAR YULIANTO",
+    "status": "LULUS",
+    "file": "file/0074153900.pdf"
+  },
+  {
+    "nisn": "3075935307",
+    "password": "karanganyar",
+    "nama": "GALIH JAFAR FATONI",
+    "status": "LULUS",
+    "file": "file/3075935307.pdf"
+  },
+  {
+    "nisn": "0079438129",
+    "password": "karanganyar",
+    "nama": "HASBY ANDYTA BINTANG PRATAMA",
+    "status": "LULUS",
+    "file": "file/0079438129.pdf"
+  },
+  {
+    "nisn": "0087891001",
+    "password": "karanganyar",
+    "nama": "ILHAM WAHYU SETIAJI",
+    "status": "LULUS",
+    "file": "file/0087891001.pdf"
+  },
+  {
+    "nisn": "0085950623",
+    "password": "karanganyar",
+    "nama": "INDAH SHOFIA LATHIFAH",
+    "status": "LULUS",
+    "file": "file/0085950623.pdf"
+  },
+  {
+    "nisn": "0074193234",
+    "password": "karanganyar",
+    "nama": "INDRA PRASETIYAWAN",
+    "status": "LULUS",
+    "file": "file/0074193234.pdf"
+  },
+  {
+    "nisn": "0086604310",
+    "password": "karanganyar",
+    "nama": "ISTIKOMAH",
+    "status": "LULUS",
+    "file": "file/0086604310.pdf"
+  },
+  {
+    "nisn": "0088191759",
+    "password": "karanganyar",
+    "nama": "KARIMAH",
+    "status": "LULUS",
+    "file": "file/0088191759.pdf"
+  },
+  {
+    "nisn": "0083781304",
+    "password": "karanganyar",
+    "nama": "MARKUS SIDIQ WIBOWO",
+    "status": "LULUS",
+    "file": "file/0083781304.pdf"
+  },
+  {
+    "nisn": "0071038229",
+    "password": "jakarta",
+    "nama": "MUHAMMAD GALIH RAMADHAN",
+    "status": "LULUS",
+    "file": "file/0071038229.pdf"
+  },
+  {
+    "nisn": "0089136284",
+    "password": "karanganyar",
+    "nama": "MUSHADIK",
+    "status": "LULUS",
+    "file": "file/0089136284.pdf"
+  },
+  {
+    "nisn": "0087894590",
+    "password": "karanganyar",
+    "nama": "RASYA ADIT SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0087894590.pdf"
+  },
+  {
+    "nisn": "0083005077",
+    "password": "karanganyar",
+    "nama": "RENATA ELDA MERLIANA",
+    "status": "LULUS",
+    "file": "file/0083005077.pdf"
+  },
+  {
+    "nisn": "0088101200",
+    "password": "karanganyar",
+    "nama": "REZZA OKTAFIANO SRIYANTO",
+    "status": "LULUS",
+    "file": "file/0088101200.pdf"
+  },
+  {
+    "nisn": "0076346527",
+    "password": "karanganyar",
+    "nama": "ROHMAT FAUZAN",
+    "status": "LULUS",
+    "file": "file/0076346527.pdf"
+  },
+  {
+    "nisn": "0088354450",
+    "password": "sragen",
+    "nama": "TALITA HUMAIRASAFI",
+    "status": "LULUS",
+    "file": "file/0088354450.pdf"
+  },
+  {
+    "nisn": "0072028515",
+    "password": "karanganyar",
+    "nama": "TSANY MUHANA KHASIN",
+    "status": "LULUS",
+    "file": "file/0072028515.pdf"
+  },
+  {
+    "nisn": "0077291437",
+    "password": "karanganyar",
+    "nama": "ZAINUL MUTTAQIN",
+    "status": "LULUS",
+    "file": "file/0077291437.pdf"
+  },
+  {
+    "nisn": "0083492311",
+    "password": "karanganyar",
+    "nama": "ZIXTA MAHENDRA KUMALA",
+    "status": "LULUS",
+    "file": "file/0083492311.pdf"
+  },
+  {
+    "nisn": "0078732557",
+    "password": "sragen",
+    "nama": "ADNAN MUKLIS ALMACKA",
+    "status": "LULUS",
+    "file": "file/0078732557.pdf"
+  },
+  {
+    "nisn": "0078494540",
+    "password": "karanganyar",
+    "nama": "ALIF MUSTHOFA",
+    "status": "LULUS",
+    "file": "file/0078494540.pdf"
+  },
+  {
+    "nisn": "0065999348",
+    "password": "karanganyar",
+    "nama": "ANANDA BAGUS SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0065999348.pdf"
+  },
+  {
+    "nisn": "0083107476",
+    "password": "karanganyar",
+    "nama": "ANDIKA PASHA PRATAMA",
+    "status": "LULUS",
+    "file": "file/0083107476.pdf"
+  },
+  {
+    "nisn": "0077226291",
+    "password": "sragen",
+    "nama": "ANDYKA SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0077226291.pdf"
+  },
+  {
+    "nisn": "0075071001",
+    "password": "karanganyar",
+    "nama": "BAGUS NUR SAPUTRO",
+    "status": "LULUS",
+    "file": "file/0075071001.pdf"
+  },
+  {
+    "nisn": "0088645180",
+    "password": "karanganyar",
+    "nama": "CAHYO REYVALDY GUMELAR",
+    "status": "LULUS",
+    "file": "file/0088645180.pdf"
+  },
+  {
+    "nisn": "0086504927",
+    "password": "karanganyar",
+    "nama": "DAFFA ADLY SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0086504927.pdf"
+  },
+  {
+    "nisn": "0089954989",
+    "password": "karanganyar",
+    "nama": "DANDY GALANG PRATAMA",
+    "status": "LULUS",
+    "file": "file/0089954989.pdf"
+  },
+  {
+    "nisn": "0086548420",
+    "password": "karanganyar",
+    "nama": "DAVIAN ARFAEL ADINATA",
+    "status": "LULUS",
+    "file": "file/0086548420.pdf"
+  },
+  {
+    "nisn": "0087005404",
+    "password": "karanganyar",
+    "nama": "DICKY SATRIA PRATAMA",
+    "status": "LULUS",
+    "file": "file/0087005404.pdf"
+  },
+  {
+    "nisn": "0071701052",
+    "password": "karanganyar",
+    "nama": "DIMAS ARNO IRWANSYAH",
+    "status": "LULUS",
+    "file": "file/0071701052.pdf"
+  },
+  {
+    "nisn": "0089785459",
+    "password": "karanganyar",
+    "nama": "EKO BAYU SAPUTRO",
+    "status": "LULUS",
+    "file": "file/0089785459.pdf"
+  },
+  {
+    "nisn": "0083176920",
+    "password": "karanganyar",
+    "nama": "ELGA GALIH PRATAMA",
+    "status": "LULUS",
+    "file": "file/0083176920.pdf"
+  },
+  {
+    "nisn": "0075779877",
+    "password": "sekijang",
+    "nama": "FERDIAN BAGAS PRATAMA",
+    "status": "LULUS",
+    "file": "file/0075779877.pdf"
+  },
+  {
+    "nisn": "0078058787",
+    "password": "karanganyar",
+    "nama": "FIRDAUS AL KHAIRU",
+    "status": "LULUS",
+    "file": "file/0078058787.pdf"
+  },
+  {
+    "nisn": "0089977917",
+    "password": "karanganyar",
+    "nama": "FUAT RIADHUS SHOLIHIN",
+    "status": "LULUS",
+    "file": "file/0089977917.pdf"
+  },
+  {
+    "nisn": "0082921919",
+    "password": "karanganyar",
+    "nama": "GALANG PUTRA HARTANTO",
+    "status": "LULUS",
+    "file": "file/0082921919.pdf"
+  },
+  {
+    "nisn": "0084782789",
+    "password": "karanganyar",
+    "nama": "MAHENDRA PUTRA SETIAWAN",
+    "status": "LULUS",
+    "file": "file/0084782789.pdf"
+  },
+  {
+    "nisn": "0071717602",
+    "password": "karanganyar",
+    "nama": "MAULANA HAFID ARIZAL",
+    "status": "LULUS",
+    "file": "file/0071717602.pdf"
+  },
+  {
+    "nisn": "0084747124",
+    "password": "karanganyar",
+    "nama": "MOHAMMAD JALIL ASH SHOLIH",
+    "status": "LULUS",
+    "file": "file/0084747124.pdf"
+  },
+  {
+    "nisn": "0088080557",
+    "password": "sragen",
+    "nama": "NOVA FEBIAN",
+    "status": "LULUS",
+    "file": "file/0088080557.pdf"
+  },
+  {
+    "nisn": "0089027301",
+    "password": "bekasi",
+    "nama": "PAUNDRA RIZKY RYU PUTRA",
+    "status": "LULUS",
+    "file": "file/0089027301.pdf"
+  },
+  {
+    "nisn": "0076339508",
+    "password": "karanganyar",
+    "nama": "RADITA FATAH RAMADHANI",
+    "status": "LULUS",
+    "file": "file/0076339508.pdf"
+  },
+  {
+    "nisn": "0081455769",
+    "password": "karanganyar",
+    "nama": "RADITYA EKA WIJAYANTO",
+    "status": "LULUS",
+    "file": "file/0081455769.pdf"
+  },
+  {
+    "nisn": "0082887766",
+    "password": "karanganyar",
+    "nama": "RAHIID HANAFI",
+    "status": "LULUS",
+    "file": "file/0082887766.pdf"
+  },
+  {
+    "nisn": "0079396434",
+    "password": "karanganyar",
+    "nama": "RAIHAN MULYA SYAWALUDIN",
+    "status": "LULUS",
+    "file": "file/0079396434.pdf"
+  },
+  {
+    "nisn": "0089715916",
+    "password": "karanganyar",
+    "nama": "RENDY HERMAWAN",
+    "status": "LULUS",
+    "file": "file/0089715916.pdf"
+  },
+  {
+    "nisn": "0076674526",
+    "password": "karanganyar",
+    "nama": "RICO NUR RAHMAN",
+    "status": "LULUS",
+    "file": "file/0076674526.pdf"
+  },
+  {
+    "nisn": "0083394172",
+    "password": "karanganyar",
+    "nama": "RISKY FAJAR JULI IRAWAN",
+    "status": "LULUS",
+    "file": "file/0083394172.pdf"
+  },
+  {
+    "nisn": "0085418261",
+    "password": "karanganyar",
+    "nama": "ROFI'I",
+    "status": "LULUS",
+    "file": "file/0085418261.pdf"
+  },
+  {
+    "nisn": "0076696385",
+    "password": "sragen",
+    "nama": "TANZIL AL ISHAQ",
+    "status": "LULUS",
+    "file": "file/0076696385.pdf"
+  },
+  {
+    "nisn": "0075899651",
+    "password": "karanganyar",
+    "nama": "WAHYU HIDAYAT",
+    "status": "LULUS",
+    "file": "file/0075899651.pdf"
+  },
+  {
+    "nisn": "0078675368",
+    "password": "karanganyar",
+    "nama": "YUSUF WIBISONO",
+    "status": "LULUS",
+    "file": "file/0078675368.pdf"
+  },
+  {
+    "nisn": "0085830867",
+    "password": "karanganyar",
+    "nama": "ZAENAL MU'ARIEF SAFIRIN",
+    "status": "LULUS",
+    "file": "file/0085830867.pdf"
+  },
+  {
+    "nisn": "0081918985",
+    "password": "karanganyar",
+    "nama": "AAN ABDI PRATAMA",
+    "status": "LULUS",
+    "file": "file/0081918985.pdf"
+  },
+  {
+    "nisn": "0084705323",
+    "password": "karanganyar",
+    "nama": "ABDUL ROSYIID",
+    "status": "LULUS",
+    "file": "file/0084705323.pdf"
+  },
+  {
+    "nisn": "0082645354",
+    "password": "karanganyar",
+    "nama": "ADHITYA ARI SETYAWAN",
+    "status": "LULUS",
+    "file": "file/0082645354.pdf"
+  },
+  {
+    "nisn": "0074652260",
+    "password": "jakarta",
+    "nama": "ALDIANSYAH SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0074652260.pdf"
+  },
+  {
+    "nisn": "0076720454",
+    "password": "karanganyar",
+    "nama": "ALDO TRISNO WIDIANTORO",
+    "status": "LULUS",
+    "file": "file/0076720454.pdf"
+  },
+  {
+    "nisn": "0086428361",
+    "password": "karanganyar",
+    "nama": "ANANDA ALI MA'RUF",
+    "status": "LULUS",
+    "file": "file/0086428361.pdf"
+  },
+  {
+    "nisn": "0083931179",
+    "password": "karanganyar",
+    "nama": "ANGGA ARYANSYAH",
+    "status": "LULUS",
+    "file": "file/0083931179.pdf"
+  },
+  {
+    "nisn": "0087783709",
+    "password": "karanganyar",
+    "nama": "ARWIDA VADZAL LAILATAN",
+    "status": "LULUS",
+    "file": "file/0087783709.pdf"
+  },
+  {
+    "nisn": "0086727033",
+    "password": "karanganyar",
+    "nama": "ASRI JUANTO",
+    "status": "LULUS",
+    "file": "file/0086727033.pdf"
+  },
+  {
+    "nisn": "0085927402",
+    "password": "karanganyar",
+    "nama": "BRIYAN TYONDRA PUTRA PRATAMA",
+    "status": "LULUS",
+    "file": "file/0085927402.pdf"
+  },
+  {
+    "nisn": "0072839416",
+    "password": "karanganyar",
+    "nama": "DENTAMA",
+    "status": "LULUS",
+    "file": "file/0072839416.pdf"
+  },
+  {
+    "nisn": "0087251969",
+    "password": "sragen",
+    "nama": "ELHAN CANDRA IRAWAN",
+    "status": "LULUS",
+    "file": "file/0087251969.pdf"
+  },
+  {
+    "nisn": "0087048978",
+    "password": "karanganyar",
+    "nama": "FAUZI",
+    "status": "LULUS",
+    "file": "file/0087048978.pdf"
+  },
+  {
+    "nisn": "0087517260",
+    "password": "karanganyar",
+    "nama": "FERDIAN PANDU PRATAMA",
+    "status": "LULUS",
+    "file": "file/0087517260.pdf"
+  },
+  {
+    "nisn": "0089277739",
+    "password": "karanganyar",
+    "nama": "FERDIYAN NANDA PRATAMA",
+    "status": "LULUS",
+    "file": "file/0089277739.pdf"
+  },
+  {
+    "nisn": "0081286352",
+    "password": "karanganyar",
+    "nama": "GALIH OKTAVIANTO",
+    "status": "LULUS",
+    "file": "file/0081286352.pdf"
+  },
+  {
+    "nisn": "0089041731",
+    "password": "karanganyar",
+    "nama": "GILANG MUHAMAD RIZKI",
+    "status": "LULUS",
+    "file": "file/0089041731.pdf"
+  },
+  {
+    "nisn": "0086855740",
+    "password": "pangkalan bun",
+    "nama": "IKHA NURGANNAH",
+    "status": "LULUS",
+    "file": "file/0086855740.pdf"
+  },
+  {
+    "nisn": "0073988115",
+    "password": "karanganyar",
+    "nama": "ILHAM RAHMADHANI",
+    "status": "LULUS",
+    "file": "file/0073988115.pdf"
+  },
+  {
+    "nisn": "0071379576",
+    "password": "sragen",
+    "nama": "KHESHA ARFIO FREDLIN",
+    "status": "LULUS",
+    "file": "file/0071379576.pdf"
+  },
+  {
+    "nisn": "0075792315",
+    "password": "karanganyar",
+    "nama": "LURIANA",
+    "status": "LULUS",
+    "file": "file/0075792315.pdf"
+  },
+  {
+    "nisn": "0088955230",
+    "password": "karanganyar",
+    "nama": "METARIAN NASYITH FIRDAUS",
+    "status": "LULUS",
+    "file": "file/0088955230.pdf"
+  },
+  {
+    "nisn": "0068329275",
+    "password": "karanganyar",
+    "nama": "MUHAMMAD HAIDZAR ALI YUZMA",
+    "status": "LULUS",
+    "file": "file/0068329275.pdf"
+  },
+  {
+    "nisn": "0073789736",
+    "password": "karanganyar",
+    "nama": "PRATAMA ADHI NUGROHO",
+    "status": "LULUS",
+    "file": "file/0073789736.pdf"
+  },
+  {
+    "nisn": "0084652877",
+    "password": "karanganyar",
+    "nama": "RASYA WILDAN PRATAMA",
+    "status": "LULUS",
+    "file": "file/0084652877.pdf"
+  },
+  {
+    "nisn": "0074653969",
+    "password": "karanganyar",
+    "nama": "RIZAL YOGA PRATAMA",
+    "status": "LULUS",
+    "file": "file/0074653969.pdf"
+  },
+  {
+    "nisn": "0086868843",
+    "password": "karanganyar",
+    "nama": "RIZKI ADHI NUGROHO",
+    "status": "LULUS",
+    "file": "file/0086868843.pdf"
+  },
+  {
+    "nisn": "0078903113",
+    "password": "karanganyar",
+    "nama": "RIZKY MIRAMDHAN",
+    "status": "LULUS",
+    "file": "file/0078903113.pdf"
+  },
+  {
+    "nisn": "0079111199",
+    "password": "karanganyar",
+    "nama": "ROHMAD NUR DIANSYAH",
+    "status": "LULUS",
+    "file": "file/0079111199.pdf"
+  },
+  {
+    "nisn": "0078419829",
+    "password": "karanganyar",
+    "nama": "SATRIA RAHMADANIE",
+    "status": "LULUS",
+    "file": "file/0078419829.pdf"
+  },
+  {
+    "nisn": "0084201632",
+    "password": "grobogan",
+    "nama": "SATRIA RESTU ADITYA",
+    "status": "LULUS",
+    "file": "file/0084201632.pdf"
+  },
+  {
+    "nisn": "0076715966",
+    "password": "karanganyar",
+    "nama": "TEGAR WIJIYANTO",
+    "status": "LULUS",
+    "file": "file/0076715966.pdf"
+  },
+  {
+    "nisn": "0076745437",
+    "password": "karanganyar",
+    "nama": "THOHIR MUSTHAFA",
+    "status": "LULUS",
+    "file": "file/0076745437.pdf"
+  },
+  {
+    "nisn": "0087972672",
+    "password": "karanganyar",
+    "nama": "VICKY GUNTUR ADHA ARVA",
+    "status": "LULUS",
+    "file": "file/0087972672.pdf"
+  },
+  {
+    "nisn": "0089162755",
+    "password": "karanganyar",
+    "nama": "YOGA SYAHPUTRA",
+    "status": "LULUS",
+    "file": "file/0089162755.pdf"
+  },
+  {
+    "nisn": "0081700472",
+    "password": "karanganyar",
+    "nama": "ZAID ADE JULNIO",
+    "status": "LULUS",
+    "file": "file/0081700472.pdf"
+  },
+  {
+    "nisn": "0086602016",
+    "password": "sragen",
+    "nama": "ADITYA EKA PRIYATMOKO",
+    "status": "LULUS",
+    "file": "file/0086602016.pdf"
+  },
+  {
+    "nisn": "0072077351",
+    "password": "sragen",
+    "nama": "ADITYA PUTRA ANANTA",
+    "status": "LULUS",
+    "file": "file/0072077351.pdf"
+  },
+  {
+    "nisn": "0083180314",
+    "password": "karanganyar",
+    "nama": "ADITYA RAGIL WIBOWO",
+    "status": "LULUS",
+    "file": "file/0083180314.pdf"
+  },
+  {
+    "nisn": "0083373136",
+    "password": "karanganyar",
+    "nama": "AFKA PANGESTU",
+    "status": "LULUS",
+    "file": "file/0083373136.pdf"
+  },
+  {
+    "nisn": "0082357207",
+    "password": "karanganyar",
+    "nama": "ARLIN BAYU WIBOWO",
+    "status": "LULUS",
+    "file": "file/0082357207.pdf"
+  },
+  {
+    "nisn": "0084084022",
+    "password": "karanganyar",
+    "nama": "ARYA DWI ANDIKA",
+    "status": "LULUS",
+    "file": "file/0084084022.pdf"
+  },
+  {
+    "nisn": "0083230682",
+    "password": "karanganyar",
+    "nama": "DENYSTA PRAMADANY",
+    "status": "LULUS",
+    "file": "file/0083230682.pdf"
+  },
+  {
+    "nisn": "0089863440",
+    "password": "karanganyar",
+    "nama": "DWI ANDIKA",
+    "status": "LULUS",
+    "file": "file/0089863440.pdf"
+  },
+  {
+    "nisn": "0089243332",
+    "password": "karanganyar",
+    "nama": "FAREL EKA NURDIANTO",
+    "status": "LULUS",
+    "file": "file/0089243332.pdf"
+  },
+  {
+    "nisn": "0088861471",
+    "password": "karanganyar",
+    "nama": "FIDELLIS NOVEBRYANNO",
+    "status": "LULUS",
+    "file": "file/0088861471.pdf"
+  },
+  {
+    "nisn": "0089624537",
+    "password": "karanganyar",
+    "nama": "FIJEI RAMNDA SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0089624537.pdf"
+  },
+  {
+    "nisn": "0072085617",
+    "password": "ngawi",
+    "nama": "FIKRI FAIZ NA IL",
+    "status": "LULUS",
+    "file": "file/0072085617.pdf"
+  },
+  {
+    "nisn": "0079780866",
+    "password": "sidodadi",
+    "nama": "GAGAH AWANG SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0079780866.pdf"
+  },
+  {
+    "nisn": "0071753591",
+    "password": "karanganyar",
+    "nama": "GERY GUNAWAN",
+    "status": "LULUS",
+    "file": "file/0071753591.pdf"
+  },
+  {
+    "nisn": "0064110041",
+    "password": "karanganyar",
+    "nama": "GUNAWAN ADHI SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0064110041.pdf"
+  },
+  {
+    "nisn": "0083951396",
+    "password": "sragen",
+    "nama": "HENDI KURNIAWAN",
+    "status": "LULUS",
+    "file": "file/0083951396.pdf"
+  },
+  {
+    "nisn": "0075867346",
+    "password": "karanganyar",
+    "nama": "IBNU MUTTAQIN",
+    "status": "LULUS",
+    "file": "file/0075867346.pdf"
+  },
+  {
+    "nisn": "0066957869",
+    "password": "karanganyar",
+    "nama": "ILHAM PURYANA",
+    "status": "LULUS",
+    "file": "file/0066957869.pdf"
+  },
+  {
+    "nisn": "0075876320",
+    "password": "karanganyar",
+    "nama": "JAYUS YULI SUBROTO",
+    "status": "LULUS",
+    "file": "file/0075876320.pdf"
+  },
+  {
+    "nisn": "0087093057",
+    "password": "karanganyar",
+    "nama": "KHOIRU FAKHRUDIN",
+    "status": "LULUS",
+    "file": "file/0087093057.pdf"
+  },
+  {
+    "nisn": "0089092777",
+    "password": "karanganyar",
+    "nama": "KHOIRUL NUR AFRIZA KATON PRASETYO",
+    "status": "LULUS",
+    "file": "file/0089092777.pdf"
+  },
+  {
+    "nisn": "0084903624",
+    "password": "karanganyar",
+    "nama": "M.CHOERUL AMIN",
+    "status": "LULUS",
+    "file": "file/0084903624.pdf"
+  },
+  {
+    "nisn": "0076381550",
+    "password": "karanganyar",
+    "nama": "MUHAMMAD VIKRY ABDULLAH",
+    "status": "LULUS",
+    "file": "file/0076381550.pdf"
+  },
+  {
+    "nisn": "0088588286",
+    "password": "karanganyar",
+    "nama": "MUHAMMAD YANUAR ABIDIN",
+    "status": "LULUS",
+    "file": "file/0088588286.pdf"
+  },
+  {
+    "nisn": "0071521931",
+    "password": "karanganyar",
+    "nama": "NABIL YADI ALFITO PRATAMA",
+    "status": "LULUS",
+    "file": "file/0071521931.pdf"
+  },
+  {
+    "nisn": "0088896800",
+    "password": "grobogan",
+    "nama": "OKTADITYA AHMAD PRADISTA",
+    "status": "LULUS",
+    "file": "file/0088896800.pdf"
+  },
+  {
+    "nisn": "0088035351",
+    "password": "karanganyar",
+    "nama": "RAFA ARYA SYARIFUDDIN",
+    "status": "LULUS",
+    "file": "file/0088035351.pdf"
+  },
+  {
+    "nisn": "0084576121",
+    "password": "karanganyar",
+    "nama": "RAFI ARIF SYARIFUDDIN",
+    "status": "LULUS",
+    "file": "file/0084576121.pdf"
+  },
+  {
+    "nisn": "0089299510",
+    "password": "karanganyar",
+    "nama": "RAHMAD BUDI SANTOSO",
+    "status": "LULUS",
+    "file": "file/0089299510.pdf"
+  },
+  {
+    "nisn": "0085083105",
+    "password": "sragen",
+    "nama": "RAHMAT WAHYUDI",
+    "status": "LULUS",
+    "file": "file/0085083105.pdf"
+  },
+  {
+    "nisn": "0083836450",
+    "password": "karanganyar",
+    "nama": "RIKI TRI SAPUTRA",
+    "status": "LULUS",
+    "file": "file/0083836450.pdf"
+  },
+  {
+    "nisn": "0071672355",
+    "password": "sragen",
+    "nama": "SEPTIADI PUTRAMA BUDI",
+    "status": "LULUS",
+    "file": "file/0071672355.pdf"
+  },
+  {
+    "nisn": "0089254571",
+    "password": "karanganyar",
+    "nama": "SOLEH NABIN MAULANA",
+    "status": "LULUS",
+    "file": "file/0089254571.pdf"
+  },
+  {
+    "nisn": "0072218291",
+    "password": "bogor",
+    "nama": "VICKY RAMADHAN",
+    "status": "LULUS",
+    "file": "file/0072218291.pdf"
+  },
+  {
+    "nisn": "0082364158",
+    "password": "karanganyar",
+    "nama": "WAHYUDI EKA SUHARTONO",
+    "status": "LULUS",
+    "file": "file/0082364158.pdf"
+  },
+  {
+    "nisn": "0074754424",
+    "password": "karanganyar",
+    "nama": "WIDIYANSYAH ABDUL AZIZ",
+    "status": "LULUS",
+    "file": "file/0074754424.pdf"
+  },
+  {
+    "nisn": "0074164704",
+    "password": "sragen",
+    "nama": "AGUSTIN RISDIANNINGSIH",
+    "status": "LULUS",
+    "file": "file/0074164704.pdf"
+  },
+  {
+    "nisn": "0087719156",
+    "password": "karanganyar",
+    "nama": "AIDAH VIKA NURJANAH",
+    "status": "LULUS",
+    "file": "file/0087719156.pdf"
+  },
+  {
+    "nisn": "0084203693",
+    "password": "karanganyar",
+    "nama": "ALISKY PRATAMA",
+    "status": "LULUS",
+    "file": "file/0084203693.pdf"
+  },
+  {
+    "nisn": "0073390456",
+    "password": "karanganyar",
+    "nama": "ANANDA MAIDEIAN PANDJI PENGESTU",
+    "status": "LULUS",
+    "file": "file/0073390456.pdf"
+  },
+  {
+    "nisn": "0084947347",
+    "password": "karanganyar",
+    "nama": "ANGGUN DWI RAHMADHANI",
+    "status": "LULUS",
+    "file": "file/0084947347.pdf"
+  },
+  {
+    "nisn": "0089540362",
+    "password": "sragen",
+    "nama": "ANGGUN NUR AINI",
+    "status": "LULUS",
+    "file": "file/0089540362.pdf"
+  },
+  {
+    "nisn": "0083545359",
+    "password": "karanganyar",
+    "nama": "ANISA ELGA ANGGANTI",
+    "status": "LULUS",
+    "file": "file/0083545359.pdf"
+  },
+  {
+    "nisn": "0087795106",
+    "password": "karanganyar",
+    "nama": "APRILIA DWI SUSANTI",
+    "status": "LULUS",
+    "file": "file/0087795106.pdf"
+  },
+  {
+    "nisn": "0071304754",
+    "password": "karanganyar",
+    "nama": "ARTIKA NAIZZAFIRA",
+    "status": "LULUS",
+    "file": "file/0071304754.pdf"
+  },
+  {
+    "nisn": "0077941123",
+    "password": "karanganyar",
+    "nama": "DEVIANA RAHMAWATI",
+    "status": "LULUS",
+    "file": "file/0077941123.pdf"
+  },
+  {
+    "nisn": "0072624622",
+    "password": "karanganyar",
+    "nama": "EKA ANASTASYA",
+    "status": "LULUS",
+    "file": "file/0072624622.pdf"
+  },
+  {
+    "nisn": "0089808204",
+    "password": "karanganyar",
+    "nama": "ELSIA ENJELINA",
+    "status": "LULUS",
+    "file": "file/0089808204.pdf"
+  },
+  {
+    "nisn": "0062938647",
+    "password": "karanganyar",
+    "nama": "ENI",
+    "status": "LULUS",
+    "file": "file/0062938647.pdf"
+  },
+  {
+    "nisn": "0089558437",
+    "password": "sragen",
+    "nama": "FITRI MILA ROHANI",
+    "status": "LULUS",
+    "file": "file/0089558437.pdf"
+  },
+  {
+    "nisn": "0086333586",
+    "password": "karanganyar",
+    "nama": "FRANSISCA DWI HARYATI",
+    "status": "LULUS",
+    "file": "file/0086333586.pdf"
+  },
+  {
+    "nisn": "0071257180",
+    "password": "wonosobo",
+    "nama": "GALANG SETIAWAN",
+    "status": "LULUS",
+    "file": "file/0071257180.pdf"
+  },
+  {
+    "nisn": "0083046957",
+    "password": "karanganyar",
+    "nama": "GUSTIN LIASTARI RAHMADANI",
+    "status": "LULUS",
+    "file": "file/0083046957.pdf"
+  },
+  {
+    "nisn": "0083649069",
+    "password": "karanganyar",
+    "nama": "JUNITA EKA ANJAINI",
+    "status": "LULUS",
+    "file": "file/0083649069.pdf"
+  },
+  {
+    "nisn": "0084055974",
+    "password": "karanganyar",
+    "nama": "LIZA NUR AISYAH",
+    "status": "LULUS",
+    "file": "file/0084055974.pdf"
+  },
+  {
+    "nisn": "0098411858",
+    "password": "sragen",
+    "nama": "MEI NOFIYANTI",
+    "status": "LULUS",
+    "file": "file/0098411858.pdf"
+  },
+  {
+    "nisn": "0082913103",
+    "password": "karanganyar",
+    "nama": "NOVA MUHAMMAD RIZKY",
+    "status": "LULUS",
+    "file": "file/0082913103.pdf"
+  },
+  {
+    "nisn": "0081358130",
+    "password": "sragen",
+    "nama": "NURUL KHUMAIROH",
+    "status": "LULUS",
+    "file": "file/0081358130.pdf"
+  },
+  {
+    "nisn": "0077415461",
+    "password": "karanganyar",
+    "nama": "PUJI LESTARI",
+    "status": "LULUS",
+    "file": "file/0077415461.pdf"
+  },
+  {
+    "nisn": "0081052439",
+    "password": "karanganyar",
+    "nama": "PUPUT NOVIANTI",
+    "status": "LULUS",
+    "file": "file/0081052439.pdf"
+  },
+  {
+    "nisn": "0078932008",
+    "password": "karanganyar",
+    "nama": "RAMADAN WARDANI",
+    "status": "LULUS",
+    "file": "file/0078932008.pdf"
+  },
+  {
+    "nisn": "0088101692",
+    "password": "sragen",
+    "nama": "RENATHA IKA SUGIARTO",
+    "status": "LULUS",
+    "file": "file/0088101692.pdf"
+  },
+  {
+    "nisn": "0081535522",
+    "password": "sragen",
+    "nama": "RISQI ANASTASYA",
+    "status": "LULUS",
+    "file": "file/0081535522.pdf"
+  },
+  {
+    "nisn": "0082576246",
+    "password": "sragen",
+    "nama": "SEKAR RAHMAWATI",
+    "status": "LULUS",
+    "file": "file/0082576246.pdf"
+  },
+  {
+    "nisn": "0092387885",
+    "password": "sragen",
+    "nama": "SHIVANA DIAN AYU PRAMESWARI",
+    "status": "LULUS",
+    "file": "file/0092387885.pdf"
+  },
+  {
+    "nisn": "0085385760",
+    "password": "karanganyar",
+    "nama": "SILVIA RAHMAWATI",
+    "status": "LULUS",
+    "file": "file/0085385760.pdf"
+  },
+  {
+    "nisn": "0079026992",
+    "password": "karanganyar",
+    "nama": "SITI HANDAYANI",
+    "status": "LULUS",
+    "file": "file/0079026992.pdf"
+  },
+  {
+    "nisn": "0075823025",
+    "password": "grobogan",
+    "nama": "SITI NURHASANAH",
+    "status": "LULUS",
+    "file": "file/0075823025.pdf"
+  },
+  {
+    "nisn": "0089501634",
+    "password": "sragen",
+    "nama": "VINA INDRIYANI",
+    "status": "LULUS",
+    "file": "file/0089501634.pdf"
+  },
+  {
+    "nisn": "0071368740",
+    "password": "karanganyar",
+    "nama": "WAHYU ADI SANTOSO",
+    "status": "LULUS",
+    "file": "file/0071368740.pdf"
+  },
+  {
+    "nisn": "0082176863",
+    "password": "sragen",
+    "nama": "YAYUK SRI RAHAYU",
+    "status": "LULUS",
+    "file": "file/0082176863.pdf"
+  }
+];
