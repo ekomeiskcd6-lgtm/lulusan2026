@@ -4,35 +4,34 @@
   <title>Pengumuman Kelulusan</title>
 </head>
 <body>
-  <h2>Pengumuman Kelulusan Kelas XII</h2>
+  <h2>CEK KELULUSAN</h2>
 
-  <input type="text" id="nisn" placeholder="NISN"><br><br>
-  <input type="password" id="password" placeholder="Password"><br><br>
+  <input type="text" id="nisn" placeholder="Masukkan NISN"><br><br>
+  <input type="password" id="password" placeholder="Masukkan Password"><br><br>
 
-  <button onclick="cek()">Cek Kelulusan</button>
+  <button onclick="cekKelulusan()">Cek</button>
 
   <div id="hasil"></div>
 
+  <script src="data.js"></script>
   <script>
-    async function cek() {
-      const NISN = document.getElementById("nisn").value;
-      const PASSWORD = document.getElementById("password").value;
+    function cekKelulusan() {
+      let nisn = document.getElementById("nisn").value;
+      let password = document.getElementById("password").value;
 
-      const res = await fetch("data.json");
-      const data = await res.json();
+      let hasil = siswa.find(s => s.nisn === nisn && s.password === password);
 
-      const user = data.find(u => u.NISN === NISN && u.PASSWORD === PASSWORD);
+      if (hasil) {
+        let output = `<h3>${hasil.nama}</h3>
+                      <p>Status: <b>${hasil.status}</b></p>`;
 
-      const hasil = document.getElementById("hasil");
+        if (hasil.status === "LULUS" && hasil.file) {
+          output += `<a href="${hasil.file}" download>Download File Kelulusan</a>`;
+        }
 
-      if (user) {
-        hasil.innerHTML = `
-          <h3>Selamat ${user.NAMA}</h3>
-          <p>Status: <b>${user.STATUS}</b></p>
-          <a href="${user.file}" target="_blank">Download Surat Kelulusan</a>
-        `;
+        document.getElementById("hasil").innerHTML = output;
       } else {
-        hasil.innerHTML = "<p style='color:red;'>NISN / Password salah</p>";
+        document.getElementById("hasil").innerHTML = "Data tidak ditemukan!";
       }
     }
   </script>
