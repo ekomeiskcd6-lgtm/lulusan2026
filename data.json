@@ -1,4 +1,4 @@
-const siswa = [
+[
   {
     "nisn": "0084355770",
     "password": "karanganyar",
@@ -2645,4 +2645,3 @@ const siswa = [
     "status": "LULUS",
     "file": "file/0082176863.pdf"
   }
-];
