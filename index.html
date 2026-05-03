@@ -15,20 +15,20 @@
 
   <script>
     async function cek() {
-      const nisn = document.getElementById("nisn").value;
-      const password = document.getElementById("password").value;
+      const NISN = document.getElementById("nisn").value;
+      const PASSWORD = document.getElementById("password").value;
 
       const res = await fetch("data.json");
       const data = await res.json();
 
-      const user = data.find(u => u.nisn === nisn && u.password === password);
+      const user = data.find(u => u.NISN === NISN && u.PASSWORD === PASSWORD);
 
       const hasil = document.getElementById("hasil");
 
       if (user) {
         hasil.innerHTML = `
-          <h3>Selamat ${user.nama}</h3>
-          <p>Status: <b>${user.status}</b></p>
+          <h3>Selamat ${user.NAMA}</h3>
+          <p>Status: <b>${user.STATUS}</b></p>
           <a href="${user.file}" target="_blank">Download Surat Kelulusan</a>
         `;
       } else {
