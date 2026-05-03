@@ -1,42 +1,210 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
-  <title>Pengumuman Kelulusan</title>
-</head>
-<body>
-  <h2>INFORMASI KELULUSAN</h2>
-  <h2>SMK NEGERI JENAWI</h2>
-  <h2>TAHUN 2026</h2>
-  <input type="text" id="nisn" placeholder="Masukkan NISN"><br><br>
-  <input type="password" id="password" placeholder="Masukkan Password"><br><br>
+<meta charset="UTF-8">
+<title>Pengumuman Kelulusan</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <button onclick="cek()">Cek</button>
+<style>
+body {
+  margin:0;
+  font-family:'Segoe UI',sans-serif;
+  background: linear-gradient(135deg,#141e30,#243b55);
+  height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  color:white;
+}
+
+.container {
+  width:380px;
+  padding:35px;
+  border-radius:20px;
+  background: rgba(255,255,255,0.08);
+  backdrop-filter: blur(15px);
+  text-align:center;
+  box-shadow:0 10px 40px rgba(0,0,0,0.4);
+  animation:fadeIn 1s;
+}
+
+@keyframes fadeIn {
+  from {opacity:0; transform:translateY(20px);}
+  to {opacity:1;}
+}
+
+.logo {
+  width:90px;
+}
+
+h2 {
+  margin:10px 0 5px;
+}
+
+#countdown {
+  margin:10px 0;
+  color:#ffd700;
+  font-weight:bold;
+}
+
+input {
+  width:100%;
+  padding:12px;
+  margin:8px 0;
+  border:none;
+  border-radius:10px;
+}
+
+button {
+  width:100%;
+  padding:12px;
+  border:none;
+  border-radius:10px;
+  background:#00c6ff;
+  color:white;
+  font-size:16px;
+  cursor:pointer;
+}
+
+button:hover {
+  background:#0072ff;
+}
+
+.lulus {
+  color:#00ffcc;
+  font-size:24px;
+  animation:glow 1s infinite alternate;
+}
+
+.tidak {
+  color:#ff4d4d;
+  font-size:24px;
+}
+
+@keyframes glow {
+  from {text-shadow:0 0 5px #00ffcc;}
+  to {text-shadow:0 0 20px #00ffcc;}
+}
+
+.download {
+  display:inline-block;
+  margin-top:15px;
+  padding:10px 15px;
+  background:#28a745;
+  border-radius:8px;
+  text-decoration:none;
+  color:white;
+}
+
+.footer {
+  margin-top:15px;
+  font-size:12px;
+  opacity:0.7;
+}
+</style>
+</head>
+
+<body oncontextmenu="return false">
+
+<div class="container">
+  <img src="logo.png" class="logo">
+  <h2>SMK NEGERI JENAWI</h2>
+  <p>KARANGANYAR</p>
+
+  <div id="countdown"></div>
+
+  <div id="formLogin" style="display:none;">
+    <input type="text" id="nisn" placeholder="NISN">
+    <input type="password" id="password" placeholder="Password">
+    <button onclick="cek()">Cek Kelulusan</button>
+  </div>
 
   <div id="hasil"></div>
 
-  <script src="data.js"></script>
-  <script>
-    function cek() {
-      let nisn = document.getElementById("nisn").value;
-      let password = document.getElementById("password").value;
+  <div class="footer">© 2026 SMK Negeri Jenawi</div>
+</div>
 
-      let user = siswa.find(s => s.nisn === nisn && s.password === password);
+<script src="data.js"></script>
 
-      if (user) {
-        let html = `
-          <h3>${user.nama}</h3>
-          <p>Status: <b>${user.status}</b></p>
-        `;
+<script>
+// SOUND
+let audio = new Audio("https://www.soundjay.com/buttons/sounds/button-3.mp3");
 
-        if (user.status === "LULUS") {
-          html += `<a href="${user.file}" download>Download SKL</a>`;
-        }
+// CONFETTI
+function confetti() {
+  for(let i=0;i<80;i++){
+    let div = document.createElement("div");
+    div.style.position="fixed";
+    div.style.width="6px";
+    div.style.height="6px";
+    div.style.background="hsl("+Math.random()*360+",100%,50%)";
+    div.style.top="0";
+    div.style.left=Math.random()*window.innerWidth+"px";
+    div.style.opacity=0.7;
+    div.style.zIndex=9999;
+    document.body.appendChild(div);
 
-        document.getElementById("hasil").innerHTML = html;
-      } else {
-        document.getElementById("hasil").innerHTML = "Data tidak ditemukan!";
+    let fall = setInterval(()=>{
+      let top = parseFloat(div.style.top);
+      div.style.top = top+5+"px";
+      if(top>window.innerHeight){
+        clearInterval(fall);
+        div.remove();
       }
+    },20);
+  }
+}
+
+// COUNTDOWN
+const waktuBuka = new Date("May 3, 2026 17:10:00").getTime();
+
+const timer = setInterval(()=>{
+  let now = new Date().getTime();
+  let selisih = waktuBuka - now;
+
+  if(selisih <= 0){
+    clearInterval(timer);
+    document.getElementById("countdown").innerHTML="Pengumuman Dibuka";
+    document.getElementById("formLogin").style.display="block";
+    return;
+  }
+
+  let d = Math.floor(selisih/(1000*60*60*24));
+  let h = Math.floor((selisih%(1000*60*60*24))/(1000*60*60));
+  let m = Math.floor((selisih%(1000*60*60))/(1000*60));
+  let s = Math.floor((selisih%(1000*60))/1000);
+
+  document.getElementById("countdown").innerHTML =
+    `Dibuka dalam: ${d}h ${h}j ${m}m ${s}d`;
+},1000);
+
+// CEK DATA
+function cek(){
+  let nisn = document.getElementById("nisn").value.trim();
+  let password = document.getElementById("password").value.trim();
+
+  let user = siswa.find(s => s.nisn === nisn && s.password === password);
+
+  if(user){
+    audio.play();
+
+    let statusClass = user.status==="LULUS"?"lulus":"tidak";
+
+    let html = `<h3>${user.nama}</h3>
+                <p class="${statusClass}">${user.status}</p>`;
+
+    if(user.status==="LULUS"){
+      confetti();
+      html += `<a class="download" href="${user.file}" download>Download SKL</a>`;
     }
-  </script>
+
+    document.getElementById("hasil").innerHTML = html;
+  } else {
+    document.getElementById("hasil").innerHTML =
+      "<p style='color:orange'>Data tidak ditemukan</p>";
+  }
+}
+</script>
+
 </body>
 </html>
