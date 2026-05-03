@@ -1,10 +1,40 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Pengumuman Kelulusan</title>
+  <title>Pengumuman Kelulusan</title>
 </head>
 <body>
-    <h1>Pengumuman Kelulusan Kelas XII</h1>
-    <p>Website berhasil dibuat 🎉</p>
+  <h2>Pengumuman Kelulusan Kelas XII</h2>
+
+  <input type="text" id="nisn" placeholder="NISN"><br><br>
+  <input type="password" id="password" placeholder="Password"><br><br>
+
+  <button onclick="cek()">Cek Kelulusan</button>
+
+  <div id="hasil"></div>
+
+  <script>
+    async function cek() {
+      const nisn = document.getElementById("nisn").value;
+      const password = document.getElementById("password").value;
+
+      const res = await fetch("data.json");
+      const data = await res.json();
+
+      const user = data.find(u => u.nisn === nisn && u.password === password);
+
+      const hasil = document.getElementById("hasil");
+
+      if (user) {
+        hasil.innerHTML = `
+          <h3>Selamat ${user.nama}</h3>
+          <p>Status: <b>${user.status}</b></p>
+          <a href="${user.file}" target="_blank">Download Surat Kelulusan</a>
+        `;
+      } else {
+        hasil.innerHTML = "<p style='color:red;'>NISN / Password salah</p>";
+      }
+    }
+  </script>
 </body>
 </html>
